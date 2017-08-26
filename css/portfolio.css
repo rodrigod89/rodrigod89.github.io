@@ -1,0 +1,85 @@
+body{
+    font-family: 'Mitr', sans-serif;
+    font-size: large;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Mitr', sans-serif;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.back-layer{
+    z-index: -10;
+}
+
+.fullscreen{
+    display: block;
+    width : 100%;
+    height : 100%;
+}
+
+.fullwidth{
+    width : 100%;
+}
+
+.with80{
+    width : 90%;
+}
+
+.small-margin{
+    margin: 1px;
+    font-size: 15px;
+}
+
+.topbar{
+    background-color: rgba(255,255,255,0.8);
+}
+
+.header-item{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.project-panel{
+    height: 520px;
+    text-align: justify;
+}
+
+.project-links{
+    padding-top: 15px;
+}
+
+.project-link span{
+    margin-left: 5px;
+    text-align: right;
+}
+
+.project-link i{
+    text-align: left;
+}
+
+.project-specs{
+    bottom: 0px;
+    position: absolute;
+    padding-bottom: 15px;
+    width: 95%;
+}
+
+.angular-with-newlines {
+    white-space: pre-wrap;
+}
+
+.uk-text-medium{
+    font-size: small;
+    font-weight: 200;
+    line-height: 130%;
+    /*text-align: justify;*/
+}
+
