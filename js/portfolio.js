@@ -7,8 +7,8 @@ app.controller('main', function ($scope) {
     $scope.twitter = "rodrigod89";
     $scope.facebook = "rdiazbe";
     $scope.telephone = "+49 1573 0613141";
-    $scope.intro = "I love making video games and coming up with new ideas. I especially like it when I work in teams with different backgrounds and skills because It's an experience where you learn something new every day.";
-    $scope.about = "I've been a developer for more than 4 years doing a variety of projects ranging from a full stack budget management system to video games. Currently I'm focusing on interactive applications using mostly Unity3D. I am attracted to a balance of quality and efficiency making me goal oriented and happy when things get done. I would say the thing that I enjoy the most is to transform an idea to a final product and figuring out how to get there.";
+    $scope.intro = "I'm a creator by nature, I love to work with teams to make really interesting and unique games for people to play.";
+    $scope.about = "I've been a developer for more than 8 years doing a variety of projects ranging from a full stack budget management system to video games. Currently I'm focusing on interactive applications using mostly Unity3D. I am attracted to a balance of quality and efficiency making me goal oriented and happy when things get done. I would say the thing that I enjoy the most is to transform an idea to a final product and figuring out how to get there.";
     $scope.links = [
         {
             icon: "facebook-square",
