@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec57398f.css",
-    "main.js": "/static/js/main.c3c7ca17.js",
-    "static/js/453.d21b7dc5.chunk.js": "/static/js/453.d21b7dc5.chunk.js",
-    "index.html": "/index.html",
-    "main.ec57398f.css.map": "/static/css/main.ec57398f.css.map",
-    "main.c3c7ca17.js.map": "/static/js/main.c3c7ca17.js.map",
-    "453.d21b7dc5.chunk.js.map": "/static/js/453.d21b7dc5.chunk.js.map"
+    "main.css": "/medialingua/static/css/main.ec57398f.css",
+    "main.js": "/medialingua/static/js/main.c3c7ca17.js",
+    "static/js/453.d21b7dc5.chunk.js": "/medialingua/static/js/453.d21b7dc5.chunk.js",
+    "index.html": "/medialingua/index.html",
+    "main.ec57398f.css.map": "/medialingua/static/css/main.ec57398f.css.map",
+    "main.c3c7ca17.js.map": "/medialingua/static/js/main.c3c7ca17.js.map",
+    "453.d21b7dc5.chunk.js.map": "/medialingua/static/js/453.d21b7dc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec57398f.css",
-    "static/js/main.c3c7ca17.js"
+    "medialingua/static/css/main.ec57398f.css",
+    "medialingua/static/js/main.c3c7ca17.js"
   ]
 }
