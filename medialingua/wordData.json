@@ -1,0 +1,282 @@
+[
+    {
+        "word": "liefde",
+        "totalCount": 6,
+        "translation": "love",
+        "sentence": ["Anne", "heeft", "liefde."],
+        "translatedSentence": "Anne has love."
+    },
+    {
+        "word": "doei",
+        "totalCount": 3,
+        "translation": "bye",
+        "sentence": ["Anne", "zegt", "doei."],
+        "translatedSentence": "Anne says bye."
+    },
+    {
+        "word": "anne",
+        "totalCount": 5,
+        "translation": "Anne",
+        "sentence": ["Anne", "heeft", "liefde", "en", "zegt", "doei."],
+        "translatedSentence": "Anne has love and says bye."
+    },
+    {
+        "word": "was",
+        "totalCount": 8,
+        "translation": "was",
+        "sentence": ["Anne", "was", "gelukkig."],
+        "translatedSentence": "Anne was happy."
+    },
+    {
+        "word": "waren",
+        "totalCount": 6,
+        "translation": "were",
+        "sentence": ["Wij", "waren", "blij."],
+        "translatedSentence": "We were happy."
+    },
+    {
+        "word": "meer",
+        "totalCount": 6,
+        "translation": "more",
+        "sentence": ["Ik", "wil", "meer", "liefde."],
+        "translatedSentence": "I want more love."
+    },
+    {
+        "word": "wat",
+        "totalCount": 5,
+        "translation": "what",
+        "sentence": ["Wat", "klinkt", "goed?"],
+        "translatedSentence": "What sounds good?"
+    },
+    {
+        "word": "klinkt",
+        "totalCount": 4,
+        "translation": "sounds",
+        "sentence": ["Anne", "zegt", "wat", "klinkt", "goed."],
+        "translatedSentence": "Anne says what sounds good."
+    },
+    {
+        "word": "wow",
+        "totalCount": 2,
+        "translation": "wow",
+        "sentence": ["Wow,", "Anne", "was", "blij."],
+        "translatedSentence": "Wow, Anne was happy."
+    },
+    {
+        "word": "week",
+        "totalCount": 2,
+        "translation": "week",
+        "sentence": ["Deze", "week", "was", "mooi."],
+        "translatedSentence": "This week was beautiful."
+    },
+    {
+        "word": "achtergrond",
+        "totalCount": 2,
+        "translation": "background",
+        "sentence": ["De", "achtergrond", "van", "de", "films", "was", "liefde."],
+        "translatedSentence": "The background of the movies was love."
+    },
+    {
+        "word": "doris",
+        "totalCount": 4,
+        "translation": "Doris",
+        "sentence": ["Doris", "weet", "dat", "Anne", "liefde", "was."],
+        "translatedSentence": "Doris knows that Anne was love."
+    },
+    {
+        "word": "weet",
+        "totalCount": 4,
+        "translation": "know",
+        "sentence": ["Doris", "weet", "meer", "over", "de", "achtergrond", "en", "de", "films."],
+        "translatedSentence": "Doris knows more about the background and the movies."
+    },
+    {
+        "word": "haar",
+        "totalCount": 4,
+        "translation": "her",
+        "sentence": ["Doris", "vindt", "haar", "week", "vol", "liefde", "en", "films", "mooi."],
+        "translatedSentence": "Doris finds her week full of love and movies beautiful."
+    },
+    {
+        "word": "jou",
+        "totalCount": 4,
+        "translation": "you",
+        "sentence": ["Heb", "jij", "meer", "liefde", "voor", "films", "dan", "Doris?"],
+        "translatedSentence": "Do you have more love for movies than Doris?"
+    },
+    {
+        "word": "moet",
+        "totalCount": 4,
+        "translation": "must",
+        "sentence": ["Je", "moet", "wat", "achtergrond", "van", "de", "films", "weten."],
+        "translatedSentence": "You must know some background of the movies."
+    },
+    {
+        "word": "bent",
+        "totalCount": 4,
+        "translation": "are",
+        "sentence": ["Jij", "bent", "meer", "dan", "wat", "Anne", "was."],
+        "translatedSentence": "You are more than what Anne was."
+    },
+    {
+        "word": "kom",
+        "totalCount": 3,
+        "translation": "come",
+        "sentence": ["Ik", "kom", "naar", "de", "films", "met", "jou", "en", "Doris."],
+        "translatedSentence": "I come to the movies with you and Doris."
+    },
+    {
+        "word": "adaptaties",
+        "totalCount": 2,
+        "translation": "adaptations",
+        "sentence": ["De", "adaptaties", "van", "de", "films", "waren", "vol", "liefde."],
+        "translatedSentence": "The adaptations of the movies were full of love."
+    },
+    {
+        "word": "films",
+        "totalCount": 2,
+        "translation": "movies",
+        "sentence": ["De", "films", "en", "hun", "achtergrond", "waren", "vol", "van", "liefde."],
+        "translatedSentence": "The movies and their background were full of love."
+    },
+    {
+        "word": "adem",
+        "totalCount": 2,
+        "translation": "breath",
+        "sentence": ["Adem", "goed", "en", "voel", "veel", "liefde."],
+        "translatedSentence": "Breathe well and feel lots of love."
+    },
+    {
+        "word": "lily",
+        "totalCount": 3,
+        "translation": "Lily",
+        "sentence": ["Lily", "en", "Anne", "waren", "in", "de", "week", "vol", "liefde."],
+        "translatedSentence": "Lily and Anne were in the week full of love."
+    },
+    {
+        "word": "denk",
+        "totalCount": 3,
+        "translation": "think",
+        "sentence": ["Ik", "denk", "dat", "Lily", "een", "achtergrond", "van", "films", "heeft."],
+        "translatedSentence": "I think that Lily has a background in films."
+    },
+    {
+        "word": "laat",
+        "totalCount": 3,
+        "translation": "let",
+        "sentence": ["Laat", "veel", "liefde", "in", "je", "hart,", "Lily."],
+        "translatedSentence": "Let lots of love into your heart, Lily."
+    },
+    {
+        "word": "iets",
+        "totalCount": 3,
+        "translation": "something",
+        "sentence": ["Ik", "weet", "dat", "er", "iets", "in", "de", "achtergrond", "klinkt."],
+        "translatedSentence": "I know that something is sounding in the background."
+    },
+    {
+        "word": "niks",
+        "totalCount": 3,
+        "translation": "nothing",
+        "sentence": ["Jij", "weet", "niks", "over", "wat", "hij", "laat", "zien."],
+        "translatedSentence": "You know nothing about what he shows."
+    },
+    {
+        "word": "deze",
+        "totalCount": 3,
+        "translation": "this",
+        "sentence": ["Deze", "week", "voelt", "als", "een", "adem", "van", "liefde."],
+        "translatedSentence": "This week feels like a breath of love."
+    },
+    {
+        "word": "veel",
+        "totalCount": 3,
+        "translation": "lots",
+        "sentence": ["Anne", "heeft", "veel", "liefde", "voor", "films."],
+        "translatedSentence": "Anne has lots of love for films."
+    },
+    {
+        "word": "plezier",
+        "totalCount": 2,
+        "translation": "pleasure",
+        "sentence": ["Hij", "heeft", "veel", "plezier", "in", "deze", "films."],
+        "translatedSentence": "He has lots of pleasure in these films."
+    },
+    {
+        "word": "slaap",
+        "totalCount": 2,
+        "translation": "sleep",
+        "sentence": ["Na", "veel", "plezier,", "moet", "je", "goed", "slapen."],
+        "translatedSentence": "After lots of pleasure, you must sleep well."
+    },
+    {
+        "word": "boodschappen",
+        "totalCount": 1,
+        "translation": "groceries",
+        "sentence": ["Wij", "gaan", "boodschappen", "doen", "in", "de", "buurt."],
+        "translatedSentence": "We are going to do groceries in the neighborhood."
+    },
+    {
+        "word": "anna",
+        "totalCount": 2,
+        "translation": "Anna",
+        "sentence": ["Anna", "heeft", "meer", "boodschappen", "gedaan."],
+        "translatedSentence": "Anna has done more grocery shopping."
+    },
+    {
+        "word": "geen",
+        "totalCount": 3,
+        "translation": "no",
+        "sentence": ["Anna", "heeft", "geen", "liefde", "voor", "boodschappen."],
+        "translatedSentence": "Anna has no love for groceries."
+    },
+    {
+        "word": "hebt",
+        "totalCount": 2,
+        "translation": "have",
+        "sentence": ["Jij", "hebt", "Anna", "gezien", "in", "de", "buurt."],
+        "translatedSentence": "You have seen Anna in the neighborhood."
+    },
+    {
+        "word": "zien",
+        "totalCount": 2,
+        "translation": "see",
+        "sentence": ["Wij", "zien", "geen", "boodschappen", "in", "de", "schuurpapier."],
+        "translatedSentence": "We see no groceries in the sandpaper."
+    },
+    {
+        "word": "zeggen",
+        "totalCount": 2,
+        "translation": "say",
+        "sentence": ["Anna", "zegt", "dat", "de", "buurt", "haar", "liefde", "is."],
+        "translatedSentence": "Anna says that the neighborhood is her love."
+    },
+    {
+        "word": "gaat",
+        "totalCount": 2,
+        "translation": "goes",
+        "sentence": ["Anna", "gaat", "boodschappen", "doen", "met", "liefde."],
+        "translatedSentence": "Anna goes grocery shopping with love."
+    },
+    {
+        "word": "bedoeld",
+        "totalCount": 2,
+        "translation": "meant",
+        "sentence": ["Wat", "was", "bedoeld", "met", "schuurpapier", "in", "de", "buurt?"],
+        "translatedSentence": "What was meant with sandpaper in the neighborhood?"
+    },
+    {
+        "word": "schuurpapier",
+        "totalCount": 1,
+        "translation": "sandpaper",
+        "sentence": ["Jij", "hebt", "schuurpapier", "en", "geen", "boodschappen."],
+        "translatedSentence": "You have sandpaper and no groceries."
+    },
+    {
+        "word": "buurt",
+        "totalCount": 1,
+        "translation": "neighborhood",
+        "sentence": ["Zij", "en", "Anna", "gaan", "boodschappen", "doen", "in", "de", "buurt."],
+        "translatedSentence": "She and Anna are going grocery shopping in the neighborhood."
+    }
+]
