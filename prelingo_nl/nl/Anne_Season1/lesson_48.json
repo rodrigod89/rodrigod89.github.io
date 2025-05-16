@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 48,
+  "language": "nl",
+  "words": [
+    {
+      "word": "keer",
+      "word_translated": "time (as in an occurrence)",
+      "sentence": "Sofie zag de keer.",
+      "sentence_translated": "Sofie saw the time."
+    },
+    {
+      "word": "levensdeeltje",
+      "word_translated": "cell (a basic unit of life)",
+      "sentence": "Een levensdeeltje is klein.",
+      "sentence_translated": "A cell is small."
+    },
+    {
+      "word": "laten",
+      "word_translated": "to let/allow",
+      "sentence": "Ze liet het leven gaan.",
+      "sentence_translated": "She let life go on."
+    },
+    {
+      "word": "wordt",
+      "word_translated": "is (used in passive voice)",
+      "sentence": "Het wordt gezien.",
+      "sentence_translated": "It is seen."
+    },
+    {
+      "word": "atonaal",
+      "word_translated": "atonal (lacking a tonal center, often used in music)",
+      "sentence": "De muziek was atonaal.",
+      "sentence_translated": "The music was atonal."
+    },
+    {
+      "word": "vast",
+      "word_translated": "fixed/secure",
+      "sentence": "Het levensdeeltje is vast.",
+      "sentence_translated": "The cell is fixed."
+    },
+    {
+      "word": "daarvan",
+      "word_translated": "of that/those",
+      "sentence": "Ze wilde daarvan weten.",
+      "sentence_translated": "She wanted to know about it."
+    },
+    {
+      "word": "zelf",
+      "word_translated": "oneself/selves (used for emphasis)",
+      "sentence": "Zij doet het zelf.",
+      "sentence_translated": "She does it herself."
+    },
+    {
+      "word": "zich",
+      "word_translated": "himself/herself/themselves (reflexive pronoun)",
+      "sentence": "Ze laat zich zien.",
+      "sentence_translated": "She lets herself be seen."
+    },
+    {
+      "word": "match",
+      "word_translated": "match (as in a game or pairing)",
+      "sentence": "Een match wordt gespeeld.",
+      "sentence_translated": "A match is played."
+    }
+  ]
+}

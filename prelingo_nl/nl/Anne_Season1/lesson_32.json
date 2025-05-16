@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 32,
+  "language": "nl",
+  "words": [
+    {
+      "word": "kunnen",
+      "word_translated": "can (verb)",
+      "sentence": "Ik kan het.",
+      "sentence_translated": "I can do it."
+    },
+    {
+      "word": "voelde",
+      "word_translated": "felt (past tense of voelen, to feel)",
+      "sentence": "Hij voelde zich goed.",
+      "sentence_translated": "He felt good."
+    },
+    {
+      "word": "pik",
+      "word_translated": "gum (noun)",
+      "sentence": "Ik heb een pik in mijn mond.",
+      "sentence_translated": "I have a gum in my mouth."
+    },
+    {
+      "word": "onzin",
+      "word_translated": "nonsense (noun)",
+      "sentence": "Dat is onzin.",
+      "sentence_translated": "That's nonsense."
+    },
+    {
+      "word": "benieuwd",
+      "word_translated": "curious (adjective)",
+      "sentence": "Ik ben benieuwd naar het nieuws.",
+      "sentence_translated": "I am curious about the news."
+    },
+    {
+      "word": "spannend",
+      "word_translated": "exciting (adjective)",
+      "sentence": "Het is spannend.",
+      "sentence_translated": "It's exciting."
+    },
+    {
+      "word": "vandaag",
+      "word_translated": "today (adv)",
+      "sentence": "Wat gebeurt er vandaag?",
+      "sentence_translated": "What happens today?"
+    },
+    {
+      "word": "alweer",
+      "word_translated": "again (adv)",
+      "sentence": "Ik ga alweer naar de winkel.",
+      "sentence_translated": "I am going to the store again."
+    },
+    {
+      "word": "overheen",
+      "word_translated": "across (adp)",
+      "sentence": "De brug gaat overheen.",
+      "sentence_translated": "The bridge goes across."
+    },
+    {
+      "word": "toe",
+      "word_translated": "to (adp)",
+      "sentence": "Ga naar de winkel toe.",
+      "sentence_translated": "Go to the store."
+    }
+  ]
+}

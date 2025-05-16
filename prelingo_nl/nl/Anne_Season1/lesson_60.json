@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 60,
+  "language": "nl",
+  "words": [
+    {
+      "word": "bakken",
+      "word_translated": "to bake (verb)",
+      "sentence": "Ik bakken een drankje.",
+      "sentence_translated": "I am baking a drink."
+    },
+    {
+      "word": "helpen",
+      "word_translated": "to help (verb)",
+      "sentence": "Kan je me helpen bakken?",
+      "sentence_translated": "Can you help me bake?"
+    },
+    {
+      "word": "gezellig",
+      "word_translated": "cozy, nice (adjective)",
+      "sentence": "Het café is gezellig.",
+      "sentence_translated": "The café is cozy."
+    },
+    {
+      "word": "alright",
+      "word_translated": "fine, okay (adjective)",
+      "sentence": "Dat is alright, we zijn gezellig.",
+      "sentence_translated": "That's fine, we are nice together."
+    },
+    {
+      "word": "kennen",
+      "word_translated": "to know (verb)",
+      "sentence": "Ik ken het café.",
+      "sentence_translated": "I know the café."
+    },
+    {
+      "word": "kent",
+      "word_translated": "knows (third person singular of kennen)",
+      "sentence": "Hij kent het gezellige café.",
+      "sentence_translated": "He knows the cozy café."
+    },
+    {
+      "word": "blind",
+      "word_translated": "blind (adjective)",
+      "sentence": "Hij is blind en kan niet helpen.",
+      "sentence_translated": "He is blind and cannot help."
+    },
+    {
+      "word": "later",
+      "word_translated": "later, behind (adjective)",
+      "sentence": "Ik ben later dan hij.",
+      "sentence_translated": "I am later than he is."
+    },
+    {
+      "word": "klopte",
+      "word_translated": "knocked (past tense of kloppen)",
+      "sentence": "Hij klopte en ik ging helpen.",
+      "sentence_translated": "He knocked and I went to help."
+    },
+    {
+      "word": "afgesproken",
+      "word_translated": "agreed upon, arranged (past participle of afspreken)",
+      "sentence": "We hebben afgesproken om gezellig te zijn.",
+      "sentence_translated": "We have agreed to be cozy together."
+    }
+  ]
+}

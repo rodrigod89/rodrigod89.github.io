@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 71,
+  "language": "nl",
+  "words": [
+    {
+      "word": "drank",
+      "word_translated": "drink (NOUN)",
+      "sentence": "Hij heeft een drank.",
+      "sentence_translated": "He has a drink."
+    },
+    {
+      "word": "trein",
+      "word_translated": "train (NOUN)",
+      "sentence": "De trein rijdt naar de stad.",
+      "sentence_translated": "The train is going to the city."
+    },
+    {
+      "word": "leest",
+      "word_translated": "reads (VERB)",
+      "sentence": "Ze leest een boek.",
+      "sentence_translated": "She reads a book."
+    },
+    {
+      "word": "vertelt",
+      "word_translated": "tells (VERB)",
+      "sentence": "Hij vertelt een verhaal.",
+      "sentence_translated": "He tells a story."
+    },
+    {
+      "word": "creatief",
+      "word_translated": "creative (ADJ)",
+      "sentence": "Ze is creatief bij het schrijven.",
+      "sentence_translated": "She is creative when writing."
+    },
+    {
+      "word": "kritisch",
+      "word_translated": "critical (ADJ)",
+      "sentence": "Hij is kritisch over het manuscript.",
+      "sentence_translated": "He is critical of the manuscript."
+    },
+    {
+      "word": "geval",
+      "word_translated": "case (NOUN)",
+      "sentence": "Dit is een interessant geval.",
+      "sentence_translated": "This is an interesting case."
+    },
+    {
+      "word": "water",
+      "word_translated": "water (NOUN)",
+      "sentence": "Ze drinkt water bij het feestje.",
+      "sentence_translated": "She drinks water at the party."
+    },
+    {
+      "word": "vindt",
+      "word_translated": "finds (VERB)",
+      "sentence": "Hij vindt de trein leuk.",
+      "sentence_translated": "He finds the train fun."
+    },
+    {
+      "word": "wacht",
+      "word_translated": "waits (VERB)",
+      "sentence": "Ze wacht op de trein bij het station.",
+      "sentence_translated": "She waits for the train at the station."
+    }
+  ]
+}

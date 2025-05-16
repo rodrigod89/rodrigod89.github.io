@@ -1,0 +1,50 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 87,
+  "language": "nl",
+  "words": [
+    {
+      "word": "tricky",
+      "word_translated": "A tricky situation or problem",
+      "sentence": "De scriptie is een tricky.",
+      "sentence_translated": "The thesis is a tricky."
+    },
+    {
+      "word": "wijn",
+      "word_translated": "Wine",
+      "sentence": "Ik heb wijn en de scriptie is tricky.",
+      "sentence_translated": "I have wine and the thesis is tricky."
+    },
+    {
+      "word": "moeilijkste",
+      "word_translated": "The most difficult",
+      "sentence": "De moeilijkste is de scriptie, want het is tricky.",
+      "sentence_translated": "The most difficult is the thesis because it is tricky."
+    },
+    {
+      "word": "kutste",
+      "word_translated": "The best (informal)",
+      "sentence": "Wijn maakt de avond kutste, zelfs met een tricky scriptie.",
+      "sentence_translated": "Wine makes the evening the best, even with a tricky thesis."
+    },
+    {
+      "word": "extra",
+      "word_translated": "Extra or additional",
+      "sentence": "Ik heb extra wijn voor de kutste avond.",
+      "sentence_translated": "I have extra wine for the best evening."
+    },
+    {
+      "word": "langer",
+      "word_translated": "Longer (comparative)",
+      "sentence": "De scriptie is langer dan ik dacht, en tricky.",
+      "sentence_translated": "The thesis is longer than I thought, and tricky."
+    },
+    {
+      "word": "supergezellig",
+      "word_translated": "Super cozy or sociable",
+      "sentence": "Een supergezellige club maakt de avond kutste.",
+      "sentence_translated": "A super cozy club makes the evening the best."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 21,
+  "language": "nl",
+  "words": [
+    {
+      "word": "gevonden",
+      "word_translated": "found (past participle of 'find')",
+      "sentence": "De brief is gevonden en hij heeft begonnen te lezen.",
+      "sentence_translated": "The letter was found and he started reading."
+    },
+    {
+      "word": "begonnen",
+      "word_translated": "started (past participle of 'start')",
+      "sentence": "Hij heeft begonnen met het werk.",
+      "sentence_translated": "He started working."
+    },
+    {
+      "word": "marielouise",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "sowieso",
+      "word_translated": "anyway (adverb)",
+      "sentence": "Sowieso, het is een goede dag.",
+      "sentence_translated": "Anyway, it's a good day."
+    },
+    {
+      "word": "goede",
+      "word_translated": "good (adjective)",
+      "sentence": "Het is sowieso een goede dag.",
+      "sentence_translated": "It's anyway a good day."
+    },
+    {
+      "word": "vaak",
+      "word_translated": "often (adverb)",
+      "sentence": "Ik ben vaak hier.",
+      "sentence_translated": "I am often here."
+    },
+    {
+      "word": "zou",
+      "word_translated": "would (auxiliary verb)",
+      "sentence": "Hij zou helpen als hij kon.",
+      "sentence_translated": "He would help if he could."
+    },
+    {
+      "word": "moeten",
+      "word_translated": "must/have to (auxiliary verb)",
+      "sentence": "Ik zou moeten werken.",
+      "sentence_translated": "I would have to work."
+    },
+    {
+      "word": "dan",
+      "word_translated": "then (subordinating conjunction)",
+      "sentence": "Als het goed is, dan ben ik vroeg klaar.",
+      "sentence_translated": "If it's good, then I'll be ready early."
+    },
+    {
+      "word": "als",
+      "word_translated": "if/when (subordinating conjunction)",
+      "sentence": "Als het goed is, dan ben ik vroeg klaar.",
+      "sentence_translated": "If it's good, then I'll be ready early."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 59,
+  "language": "nl",
+  "words": [
+    {
+      "word": "drankje",
+      "word_translated": "A drink",
+      "sentence": "Ik heb een drankje.",
+      "sentence_translated": "I have a drink."
+    },
+    {
+      "word": "café",
+      "word_translated": "Café",
+      "sentence": "We zijn in het café.",
+      "sentence_translated": "We are at the café."
+    },
+    {
+      "word": "meedoen",
+      "word_translated": "To participate",
+      "sentence": "Ik wil meedoen met de wedstrijd.",
+      "sentence_translated": "I want to participate in the competition."
+    },
+    {
+      "word": "verzin",
+      "word_translated": "To invent",
+      "sentence": "Hij verzon een bizar verhaal.",
+      "sentence_translated": "He invented a bizarre story."
+    },
+    {
+      "word": "bizar",
+      "word_translated": "Bizarre",
+      "sentence": "Het is een bizar idee.",
+      "sentence_translated": "It's a bizarre idea."
+    },
+    {
+      "word": "elementair",
+      "word_translated": "Elementary",
+      "sentence": "Dat is elementair.",
+      "sentence_translated": "That is elementary."
+    },
+    {
+      "word": "sorry",
+      "word_translated": "Sorry (noun)",
+      "sentence": "Ik heb het spijt, sorry.",
+      "sentence_translated": "I'm sorry, sorry."
+    },
+    {
+      "word": "signalen",
+      "word_translated": "Signals",
+      "sentence": "We moeten de signalen begrijpen.",
+      "sentence_translated": "We need to understand the signals."
+    },
+    {
+      "word": "staan",
+      "word_translated": "To stand",
+      "sentence": "Hij staat bij het café.",
+      "sentence_translated": "He is standing at the café."
+    },
+    {
+      "word": "appen",
+      "word_translated": "To play (with hands)",
+      "sentence": "Kinderen appen graag in het park.",
+      "sentence_translated": "Children like to play with their hands in the park."
+    }
+  ]
+}

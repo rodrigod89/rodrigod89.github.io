@@ -1,0 +1,410 @@
+{
+    "name": "Anne+ Season 1",
+    "image": "/nl/Anne_Season1/image.jpg",
+    "parts": [
+        {
+            "Episode 1": [
+                {
+                    "lesson": 1,
+                    "progress": 15.107913669064748
+                },
+                {
+                    "lesson": 2,
+                    "progress": 21.223021582733818
+                },
+                {
+                    "lesson": 3,
+                    "progress": 25.539568345323744
+                },
+                {
+                    "lesson": 4,
+                    "progress": 29.496402877697847
+                },
+                {
+                    "lesson": 5,
+                    "progress": 34.53237410071942
+                },
+                {
+                    "lesson": 6,
+                    "progress": 39.56834532374101
+                },
+                {
+                    "lesson": 7,
+                    "progress": 41.00719424460432
+                },
+                {
+                    "lesson": 8,
+                    "progress": 44.964028776978424
+                },
+                {
+                    "lesson": 9,
+                    "progress": 47.48201438848921
+                },
+                {
+                    "lesson": 10,
+                    "progress": 48.92086330935253
+                },
+                {
+                    "lesson": 11,
+                    "progress": 51.79856115107915
+                },
+                {
+                    "lesson": 12,
+                    "progress": 53.59712230215828
+                },
+                {
+                    "lesson": 13,
+                    "progress": 56.474820143884905
+                },
+                {
+                    "lesson": 14,
+                    "progress": 58.27338129496405
+                },
+                {
+                    "lesson": 15,
+                    "progress": 60.79136690647484
+                },
+                {
+                    "lesson": 16,
+                    "progress": 63.30935251798564
+                },
+                {
+                    "lesson": 17,
+                    "progress": 65.82733812949643
+                },
+                {
+                    "lesson": 18,
+                    "progress": 69.78417266187053
+                },
+                {
+                    "lesson": 19,
+                    "progress": 73.74100719424463
+                },
+                {
+                    "lesson": 20,
+                    "progress": 76.61870503597126
+                },
+                {
+                    "lesson": 21,
+                    "progress": 78.05755395683457
+                },
+                {
+                    "lesson": 22,
+                    "progress": 80.21582733812953
+                },
+                {
+                    "lesson": 23,
+                    "progress": 82.3741007194245
+                },
+                {
+                    "lesson": 24,
+                    "progress": 86.3309352517986
+                },
+                {
+                    "lesson": 25,
+                    "progress": 89.92805755395689
+                },
+                {
+                    "lesson": 26,
+                    "progress": 93.52517985611516
+                },
+                {
+                    "lesson": 27,
+                    "progress": 97.12230215827343
+                },
+                {
+                    "lesson": 28,
+                    "progress": 100.00000000000007
+                }
+            ]
+        },
+        {
+            "Episode 2": [
+                {
+                    "lesson": 29,
+                    "progress": 12.041884816753926
+                },
+                {
+                    "lesson": 30,
+                    "progress": 19.895287958115183
+                },
+                {
+                    "lesson": 31,
+                    "progress": 27.225130890052355
+                },
+                {
+                    "lesson": 32,
+                    "progress": 32.98429319371727
+                },
+                {
+                    "lesson": 33,
+                    "progress": 39.79057591623037
+                },
+                {
+                    "lesson": 34,
+                    "progress": 44.50261780104712
+                },
+                {
+                    "lesson": 35,
+                    "progress": 48.167539267015705
+                },
+                {
+                    "lesson": 36,
+                    "progress": 52.35602094240838
+                },
+                {
+                    "lesson": 37,
+                    "progress": 57.59162303664922
+                },
+                {
+                    "lesson": 38,
+                    "progress": 62.82722513089005
+                },
+                {
+                    "lesson": 39,
+                    "progress": 69.10994764397905
+                },
+                {
+                    "lesson": 40,
+                    "progress": 73.82198952879581
+                },
+                {
+                    "lesson": 41,
+                    "progress": 79.05759162303664
+                },
+                {
+                    "lesson": 42,
+                    "progress": 83.76963350785341
+                },
+                {
+                    "lesson": 43,
+                    "progress": 89.52879581151834
+                },
+                {
+                    "lesson": 44,
+                    "progress": 94.24083769633509
+                },
+                {
+                    "lesson": 45,
+                    "progress": 98.95287958115185
+                },
+                {
+                    "lesson": 46,
+                    "progress": 100.0
+                }
+            ]
+        },
+        {
+            "Episode 3": [
+                {
+                    "lesson": 47,
+                    "progress": 8.450704225352112
+                },
+                {
+                    "lesson": 48,
+                    "progress": 14.084507042253522
+                },
+                {
+                    "lesson": 49,
+                    "progress": 22.535211267605636
+                },
+                {
+                    "lesson": 50,
+                    "progress": 28.873239436619713
+                },
+                {
+                    "lesson": 51,
+                    "progress": 37.323943661971825
+                },
+                {
+                    "lesson": 52,
+                    "progress": 42.95774647887324
+                },
+                {
+                    "lesson": 53,
+                    "progress": 48.59154929577464
+                },
+                {
+                    "lesson": 54,
+                    "progress": 54.22535211267605
+                },
+                {
+                    "lesson": 55,
+                    "progress": 61.267605633802816
+                },
+                {
+                    "lesson": 56,
+                    "progress": 68.30985915492957
+                },
+                {
+                    "lesson": 57,
+                    "progress": 74.64788732394365
+                },
+                {
+                    "lesson": 58,
+                    "progress": 81.69014084507042
+                },
+                {
+                    "lesson": 59,
+                    "progress": 91.54929577464787
+                },
+                {
+                    "lesson": 60,
+                    "progress": 97.18309859154928
+                },
+                {
+                    "lesson": 61,
+                    "progress": 100.0
+                }
+            ]
+        },
+        {
+            "Episode 4": [
+                {
+                    "lesson": 62,
+                    "progress": 12.142857142857144
+                },
+                {
+                    "lesson": 63,
+                    "progress": 18.571428571428573
+                },
+                {
+                    "lesson": 64,
+                    "progress": 25.0
+                },
+                {
+                    "lesson": 65,
+                    "progress": 32.14285714285714
+                },
+                {
+                    "lesson": 66,
+                    "progress": 37.857142857142854
+                },
+                {
+                    "lesson": 67,
+                    "progress": 44.285714285714285
+                },
+                {
+                    "lesson": 68,
+                    "progress": 50.0
+                },
+                {
+                    "lesson": 69,
+                    "progress": 56.42857142857143
+                },
+                {
+                    "lesson": 70,
+                    "progress": 62.857142857142854
+                },
+                {
+                    "lesson": 71,
+                    "progress": 70.0
+                },
+                {
+                    "lesson": 72,
+                    "progress": 77.14285714285715
+                },
+                {
+                    "lesson": 73,
+                    "progress": 83.57142857142857
+                },
+                {
+                    "lesson": 74,
+                    "progress": 90.00000000000001
+                },
+                {
+                    "lesson": 75,
+                    "progress": 95.71428571428572
+                },
+                {
+                    "lesson": 76,
+                    "progress": 100.00000000000003
+                }
+            ]
+        },
+        {
+            "Episode 5": [
+                {
+                    "lesson": 77,
+                    "progress": 22.115384615384617
+                },
+                {
+                    "lesson": 78,
+                    "progress": 30.76923076923077
+                },
+                {
+                    "lesson": 79,
+                    "progress": 38.46153846153846
+                },
+                {
+                    "lesson": 80,
+                    "progress": 45.19230769230769
+                },
+                {
+                    "lesson": 81,
+                    "progress": 53.846153846153854
+                },
+                {
+                    "lesson": 82,
+                    "progress": 62.5
+                },
+                {
+                    "lesson": 83,
+                    "progress": 72.11538461538463
+                },
+                {
+                    "lesson": 84,
+                    "progress": 76.92307692307693
+                },
+                {
+                    "lesson": 85,
+                    "progress": 84.61538461538463
+                },
+                {
+                    "lesson": 86,
+                    "progress": 94.23076923076924
+                },
+                {
+                    "lesson": 87,
+                    "progress": 100.00000000000003
+                }
+            ]
+        },
+        {
+            "Episode 6": [
+                {
+                    "lesson": 88,
+                    "progress": 16.867469879518072
+                },
+                {
+                    "lesson": 89,
+                    "progress": 30.120481927710845
+                },
+                {
+                    "lesson": 90,
+                    "progress": 42.168674698795186
+                },
+                {
+                    "lesson": 91,
+                    "progress": 55.421686746987966
+                },
+                {
+                    "lesson": 92,
+                    "progress": 67.46987951807229
+                },
+                {
+                    "lesson": 93,
+                    "progress": 79.51807228915662
+                },
+                {
+                    "lesson": 94,
+                    "progress": 91.56626506024097
+                },
+                {
+                    "lesson": 95,
+                    "progress": 100.0
+                }
+            ]
+        }
+    ]
+}

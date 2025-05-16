@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 41,
+  "language": "nl",
+  "words": [
+    {
+      "word": "voelt",
+      "word_translated": "feels",
+      "sentence": "Ik voel gemak.",
+      "sentence_translated": "I feel comfort."
+    },
+    {
+      "word": "duren",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "zakken",
+      "word_translated": "bags (noun)",
+      "sentence": "Ik heb zakken in mijn tas.",
+      "sentence_translated": "I have bags in my bag."
+    },
+    {
+      "word": "tas",
+      "word_translated": "bag",
+      "sentence": "Mijn tas is zwaar.",
+      "sentence_translated": "My bag is heavy."
+    },
+    {
+      "word": "blank",
+      "word_translated": "white",
+      "sentence": "De tas is blank.",
+      "sentence_translated": "The bag is white."
+    },
+    {
+      "word": "hoogopgeleid",
+      "word_translated": "highly educated",
+      "sentence": "Hij is hoogopgeleid en werkt in een wereldje.",
+      "sentence_translated": "He is highly educated and works in a world."
+    },
+    {
+      "word": "uitzitten",
+      "word_translated": "to wait out",
+      "sentence": "Ik moet dit uur uitzitten.",
+      "sentence_translated": "I have to wait this hour out."
+    },
+    {
+      "word": "zetten",
+      "word_translated": "to put/place/set",
+      "sentence": "Zet de tas neer, het is zwaar.",
+      "sentence_translated": "Put the bag down, it's heavy."
+    },
+    {
+      "word": "top",
+      "word_translated": "top (noun)",
+      "sentence": "De top van de tas is blank.",
+      "sentence_translated": "The top of the bag is white."
+    },
+    {
+      "word": "rest",
+      "word_translated": "remainder, rest",
+      "sentence": "De rest van de zakken moet ik halen.",
+      "sentence_translated": "I have to pick up the remainder of the bags."
+    }
+  ]
+}

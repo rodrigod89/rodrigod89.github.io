@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 56,
+  "language": "nl",
+  "words": [
+    {
+      "word": "thema",
+      "word_translated": "theme (NOUN)",
+      "sentence": "Het thema is belangrijk.",
+      "sentence_translated": "The theme is important."
+    },
+    {
+      "word": "dorp",
+      "word_translated": "village (NOUN)",
+      "sentence": "Het dorp heeft een mooi thema.",
+      "sentence_translated": "The village has a beautiful theme."
+    },
+    {
+      "word": "onthouden",
+      "word_translated": "to remember (VERB)",
+      "sentence": "Je moet het thema onthouden.",
+      "sentence_translated": "You must remember the theme."
+    },
+    {
+      "word": "ingeramd",
+      "word_translated": "planned (VERB, past participle)",
+      "sentence": "Het thema is goed ingeramd.",
+      "sentence_translated": "The theme has been well planned."
+    },
+    {
+      "word": "toffe",
+      "word_translated": "awesome (ADJ)",
+      "sentence": "Dit is een toffe dorp.",
+      "sentence_translated": "This is an awesome village."
+    },
+    {
+      "word": "grappig",
+      "word_translated": "funny (ADJ)",
+      "sentence": "Het thema is grappig en toffe.",
+      "sentence_translated": "The theme is funny and awesome."
+    },
+    {
+      "word": "verhaallijnen",
+      "word_translated": "plot lines (NOUN, plural)",
+      "sentence": "De verhaallijnen zijn gegrappeld in het thema.",
+      "sentence_translated": "The plot lines are woven into the theme."
+    },
+    {
+      "word": "stuk",
+      "word_translated": "piece (NOUN)",
+      "sentence": "Een stuk van de verhaallijnen is toffe.",
+      "sentence_translated": "A piece of the plot lines is awesome."
+    },
+    {
+      "word": "klink",
+      "word_translated": "to sound (VERB)",
+      "sentence": "De thema's klinken grappig.",
+      "sentence_translated": "The themes sound funny."
+    },
+    {
+      "word": "gezocht",
+      "word_translated": "sought (VERB, past participle)",
+      "sentence": "Een toffe dorp is vaak gezocht.",
+      "sentence_translated": "An awesome village is often sought after."
+    }
+  ]
+}

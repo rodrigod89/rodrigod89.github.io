@@ -1,0 +1,32 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 61,
+  "language": "nl",
+  "words": [
+    {
+      "word": "oppikken",
+      "word_translated": "to memorize, to learn by heart",
+      "sentence": "Hij oppikt een liedje.",
+      "sentence_translated": "He learns a song by heart."
+    },
+    {
+      "word": "toegeven",
+      "word_translated": "to admit, to concede",
+      "sentence": "Hij heeft toegegeven en wil helpen.",
+      "sentence_translated": "He conceded and wants to help."
+    },
+    {
+      "word": "zwak",
+      "word_translated": "weak (adj.)",
+      "sentence": "Het is zwak om toe te geven.",
+      "sentence_translated": "It's weak to concede."
+    },
+    {
+      "word": "irritante",
+      "word_translated": "to irritate, to annoy",
+      "sentence": "Hij is zwak en irriteert zichzelf.",
+      "sentence_translated": "He is weak and annoys himself."
+    }
+  ]
+}

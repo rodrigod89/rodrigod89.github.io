@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 12,
+  "language": "nl",
+  "words": [
+    {
+      "word": "leen",
+      "word_translated": "to borrow (verb)",
+      "sentence": "Ik wil een boek leen.",
+      "sentence_translated": "I want to borrow a book."
+    },
+    {
+      "word": "zie",
+      "word_translated": "see (verb)",
+      "sentence": "Hij ziet het probleem.",
+      "sentence_translated": "He sees the problem."
+    },
+    {
+      "word": "dag",
+      "word_translated": "day (noun)",
+      "sentence": "Het is een mooie dag.",
+      "sentence_translated": "It's a beautiful day."
+    },
+    {
+      "word": "liedje",
+      "word_translated": "song (noun)",
+      "sentence": "Ik zing een liedje.",
+      "sentence_translated": "I sing a song."
+    },
+    {
+      "word": "lang",
+      "word_translated": "long (adjective)",
+      "sentence": "De dag is lang.",
+      "sentence_translated": "The day is long."
+    },
+    {
+      "word": "geweldig",
+      "word_translated": "amazing (adjective)",
+      "sentence": "Het liedje is geweldig.",
+      "sentence_translated": "The song is amazing."
+    },
+    {
+      "word": "alleen",
+      "word_translated": "alone (adverb)",
+      "sentence": "Ik ben alleen.",
+      "sentence_translated": "I am alone."
+    },
+    {
+      "word": "nooit",
+      "word_translated": "never (adverb)",
+      "sentence": "Hij ziet het nooit.",
+      "sentence_translated": "He never sees it."
+    },
+    {
+      "word": "mn",
+      "word_translated": "my (pronoun)",
+      "sentence": "Mijn dag is lang.",
+      "sentence_translated": "My day is long."
+    },
+    {
+      "word": "iets",
+      "word_translated": "something (pronoun)",
+      "sentence": "Ik heb iets te leen.",
+      "sentence_translated": "I have something to borrow."
+    }
+  ]
+}

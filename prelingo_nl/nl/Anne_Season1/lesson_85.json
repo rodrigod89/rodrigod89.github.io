@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 85,
+  "language": "nl",
+  "words": [
+    {
+      "word": "fingers",
+      "word_translated": "fingers (body part)",
+      "sentence": "Ik heb vijf fingers.",
+      "sentence_translated": "I have five fingers."
+    },
+    {
+      "word": "school",
+      "word_translated": "school (educational institution)",
+      "sentence": "Ik ga naar school met mijn fingers.",
+      "sentence_translated": "I go to school with my fingers."
+    },
+    {
+      "word": "eindigen",
+      "word_translated": "to end (verb)",
+      "sentence": "De dag eindigt op school.",
+      "sentence_translated": "The day ends at school."
+    },
+    {
+      "word": "herkende",
+      "word_translated": "recognized (past tense of verb herkennen)",
+      "sentence": "Ik herkende de leraar aan school.",
+      "sentence_translated": "I recognized the teacher at school."
+    },
+    {
+      "word": "klaar",
+      "word_translated": "ready (adjective)",
+      "sentence": "Ik ben klaar om naar huis te gaan.",
+      "sentence_translated": "I am ready to go home."
+    },
+    {
+      "word": "erg",
+      "word_translated": "very/extremely (adjective)",
+      "sentence": "De les was erg moeilijk.",
+      "sentence_translated": "The lesson was very difficult."
+    },
+    {
+      "word": "seksualiteit",
+      "word_translated": "sexuality (noun)",
+      "sentence": "Seksualiteit is een belangrijk onderwerp in de school.",
+      "sentence_translated": "Sexuality is an important topic at the school."
+    },
+    {
+      "word": "hokje",
+      "word_translated": "cubby/cubbyhole (noun)",
+      "sentence": "Ik zet mijn spullen in het hokje bij de school.",
+      "sentence_translated": "I put my things in the cubby at the school."
+    },
+    {
+      "word": "weggaat",
+      "word_translated": "leaves (verb)",
+      "sentence": "De leraar gaat weg na de les.",
+      "sentence_translated": "The teacher leaves after the lesson."
+    },
+    {
+      "word": "loslaten",
+      "word_translated": "to let go (verb)",
+      "sentence": "Ik wil mijn angst loslaten en klaar zijn voor school.",
+      "sentence_translated": "I want to let go of my fear and be ready for school."
+    }
+  ]
+}

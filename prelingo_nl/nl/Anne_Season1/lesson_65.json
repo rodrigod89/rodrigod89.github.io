@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 65,
+  "language": "nl",
+  "words": [
+    {
+      "word": "wc",
+      "word_translated": "toilet (NOUN)",
+      "sentence": "Ik ga naar het wc.",
+      "sentence_translated": "I am going to the toilet."
+    },
+    {
+      "word": "vereisten",
+      "word_translated": "requirements (NOUN)",
+      "sentence": "De vereisten zijn duidelijk.",
+      "sentence_translated": "The requirements are clear."
+    },
+    {
+      "word": "gesolliciteerd",
+      "word_translated": "applied (VERB, past participle)",
+      "sentence": "Hij heeft voor het stagiair gesolliciteerd.",
+      "sentence_translated": "He applied for the internship."
+    },
+    {
+      "word": "betekent",
+      "word_translated": "means (VERB)",
+      "sentence": "Wat betekent 'gesolliciteerd'?",
+      "sentence_translated": "What does 'applied' mean?"
+    },
+    {
+      "word": "feministisch",
+      "word_translated": "feminist (ADJ)",
+      "sentence": "Zij is een feministisch schrijver.",
+      "sentence_translated": "She is a feminist writer."
+    },
+    {
+      "word": "oudere",
+      "word_translated": "older (ADJ)",
+      "sentence": "De oudere stagiair heeft ervaring.",
+      "sentence_translated": "The older intern has experience."
+    },
+    {
+      "word": "eraan",
+      "word_translated": "to it (ADV)",
+      "sentence": "Hij kan eraan gewend zijn.",
+      "sentence_translated": "He can be used to it."
+    },
+    {
+      "word": "graag",
+      "word_translated": "gladly (ADV)",
+      "sentence": "Ik wil graag helpen.",
+      "sentence_translated": "I would like to help gladly."
+    },
+    {
+      "word": "hadden",
+      "word_translated": "had (AUX, past tense of hebben)",
+      "sentence": "Ze hadden de vereisten niet verstaan.",
+      "sentence_translated": "They had not understood the requirements."
+    },
+    {
+      "word": "naartoe",
+      "word_translated": "to it/there (ADP)",
+      "sentence": "Waarom gaan we naartoe?",
+      "sentence_translated": "Why are we going there?"
+    }
+  ]
+}

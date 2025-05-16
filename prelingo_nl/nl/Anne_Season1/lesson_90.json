@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0106",
+  "lesson": 90,
+  "language": "nl",
+  "words": [
+    {
+      "word": "wcborstel",
+      "word_translated": "Toothbrush (a toothbrush is a tool for cleaning teeth)",
+      "sentence": "Ik heb een wcborstel.",
+      "sentence_translated": "I have a toothbrush."
+    },
+    {
+      "word": "vader",
+      "word_translated": "Father (a father is a male parent)",
+      "sentence": "Mijn vader heeft een wcborstel.",
+      "sentence_translated": "My father has a toothbrush."
+    },
+    {
+      "word": "ontgrendelen",
+      "word_translated": "To unlock (to open something that was locked)",
+      "sentence": "Ik ontgrendel de deur.",
+      "sentence_translated": "I unlock the door."
+    },
+    {
+      "word": "krijgen",
+      "word_translated": "To get/receive (to obtain or receive something)",
+      "sentence": "Mijn vader krijgt een wcborstel.",
+      "sentence_translated": "My father gets a toothbrush."
+    },
+    {
+      "word": "zelfstandig",
+      "word_translated": "Independent (able to do things on one's own)",
+      "sentence": "Hij is zelfstandig.",
+      "sentence_translated": "He is independent."
+    },
+    {
+      "word": "onzijdige",
+      "word_translated": "Neuter (referring to a noun that is neither masculine nor feminine)",
+      "sentence": "Dit wcborstel is onzijdige.",
+      "sentence_translated": "This toothbrush is neuter."
+    },
+    {
+      "word": "geleden",
+      "word_translated": "Ago (referring to a time in the past)",
+      "sentence": "Ik heb het geleden gekregen.",
+      "sentence_translated": "I received it some time ago."
+    },
+    {
+      "word": "overal",
+      "word_translated": "Everywhere (in all places or locations)",
+      "sentence": "Hij is overal geweest.",
+      "sentence_translated": "He has been everywhere."
+    },
+    {
+      "word": "ach",
+      "word_translated": "Oh (an exclamation of surprise, pain, or sympathy)",
+      "sentence": "Ach, dat wcborstel!",
+      "sentence_translated": "Oh, that toothbrush!"
+    },
+    {
+      "word": "jaren",
+      "word_translated": "Years (a period of time equal to 365 days)",
+      "sentence": "Hij is al jaren zelfstandig.",
+      "sentence_translated": "He has been independent for years."
+    }
+  ]
+}

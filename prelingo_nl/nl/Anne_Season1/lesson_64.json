@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 64,
+  "language": "nl",
+  "words": [
+    {
+      "word": "moment",
+      "word_translated": "a moment",
+      "sentence": "Dat is een moment.",
+      "sentence_translated": "That's a moment."
+    },
+    {
+      "word": "stagiair",
+      "word_translated": "intern",
+      "sentence": "De stagiair heeft een moment nodig.",
+      "sentence_translated": "The intern needs a moment."
+    },
+    {
+      "word": "stuur",
+      "word_translated": "(to) steer",
+      "sentence": "Ik stuur de potgrond.",
+      "sentence_translated": "I am steering the soil."
+    },
+    {
+      "word": "sturen",
+      "word_translated": "(to) send",
+      "sentence": "Hij kan het moment sturen.",
+      "sentence_translated": "He can send the moment."
+    },
+    {
+      "word": "nieuws",
+      "word_translated": "news",
+      "sentence": "Het nieuws is mogelijk soms spannend.",
+      "sentence_translated": "The news is sometimes possibly exciting."
+    },
+    {
+      "word": "spannends",
+      "word_translated": "exciting",
+      "sentence": "De stagiair wil het spannende nieuws horen.",
+      "sentence_translated": "The intern wants to hear the exciting news."
+    },
+    {
+      "word": "daarvoor",
+      "word_translated": "for that",
+      "sentence": "Hij heeft daarvoor een moment nodig.",
+      "sentence_translated": "He needs a moment for that."
+    },
+    {
+      "word": "soms",
+      "word_translated": "sometimes",
+      "sentence": "Soms stuur ik het nieuws.",
+      "sentence_translated": "Sometimes I send the news."
+    },
+    {
+      "word": "iemand",
+      "word_translated": "someone",
+      "sentence": "Iemand wil ons helpen soms.",
+      "sentence_translated": "Someone wants to help us sometimes."
+    },
+    {
+      "word": "ons",
+      "word_translated": "us, we",
+      "sentence": "Hij stuurde ons nieuws daarvoor.",
+      "sentence_translated": "He sent us the news for that."
+    }
+  ]
+}

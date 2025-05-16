@@ -1,0 +1,62 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 28,
+  "language": "nl",
+  "words": [
+    {
+      "word": "miste",
+      "word_translated": "missed (I missed)",
+      "sentence": "Ik miste het.",
+      "sentence_translated": "I missed it."
+    },
+    {
+      "word": "breken",
+      "word_translated": "break (to break)",
+      "sentence": "Hij brak het glas.",
+      "sentence_translated": "He broke the glass."
+    },
+    {
+      "word": "had",
+      "word_translated": "had (I had)",
+      "sentence": "Ik had een boek.",
+      "sentence_translated": "I had a book."
+    },
+    {
+      "word": "hou",
+      "word_translated": "hold/have (you have)",
+      "sentence": "Hou je van muziek?",
+      "sentence_translated": "Do you like music?"
+    },
+    {
+      "word": "hield",
+      "word_translated": "held/kept (he kept)",
+      "sentence": "Hij hield het geheim.",
+      "sentence_translated": "He kept the secret."
+    },
+    {
+      "word": "beseften",
+      "word_translated": "realize (I realized)",
+      "sentence": "Ik beseftte dat ik te laat was.",
+      "sentence_translated": "I realized that I was late."
+    },
+    {
+      "word": "ging",
+      "word_translated": "went (she went)",
+      "sentence": "Zij ging naar huis.",
+      "sentence_translated": "She went home."
+    },
+    {
+      "word": "gehaald",
+      "word_translated": "got/had gotten (had gotten)",
+      "sentence": "Hij had het boek gehaald.",
+      "sentence_translated": "He had gotten the book."
+    },
+    {
+      "word": "volgende",
+      "word_translated": "next (the next day)",
+      "sentence": "De volgende dag ging hij naar de winkel.",
+      "sentence_translated": "The next day, he went to the store."
+    }
+  ]
+}

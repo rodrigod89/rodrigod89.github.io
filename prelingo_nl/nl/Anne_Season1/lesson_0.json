@@ -1,0 +1,20 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 0,
+  "language": "nl",
+  "words": [
+    {
+      "word": "klinkt",
+      "word_translated": "sounds (verb)",
+      "sentence": "Hoe klinkt dat?",
+      "sentence_translated": "How does that sound?"
+    },
+    {
+      "word": "weet",
+      "word_translated": "knows/know (verb)",
+      "sentence": "Ik weet het.",
+      "sentence_translated": "I know it."
+    }
+  ]
+}

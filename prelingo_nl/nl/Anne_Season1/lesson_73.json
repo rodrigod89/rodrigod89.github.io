@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 73,
+  "language": "nl",
+  "words": [
+    {
+      "word": "meisje",
+      "word_translated": "girl",
+      "sentence": "Ik ken een meisje.",
+      "sentence_translated": "I know a girl."
+    },
+    {
+      "word": "dingetje",
+      "word_translated": "little thing",
+      "sentence": "Het is een dingetje voor het meisje.",
+      "sentence_translated": "It's a little thing for the girl."
+    },
+    {
+      "word": "drinken",
+      "word_translated": "to drink",
+      "sentence": "Ze wil iets drinken.",
+      "sentence_translated": "She wants something to drink."
+    },
+    {
+      "word": "deed",
+      "word_translated": "did (past tense of doen)",
+      "sentence": "Hij deed het dingetje voor haar.",
+      "sentence_translated": "He did the little thing for her."
+    },
+    {
+      "word": "druk",
+      "word_translated": "busy, stressed",
+      "sentence": "Ze is druk met het meisje.",
+      "sentence_translated": "She's busy with the girl."
+    },
+    {
+      "word": "andere",
+      "word_translated": "other",
+      "sentence": "Hij heeft een andere afspraak.",
+      "sentence_translated": "He has another appointment."
+    },
+    {
+      "word": "afspraak",
+      "word_translated": "appointment, arrangement",
+      "sentence": "Ze deed haar afspraak met het meisje.",
+      "sentence_translated": "She did her appointment with the girl."
+    },
+    {
+      "word": "biertje",
+      "word_translated": "little beer",
+      "sentence": "Hij wil een biertje drinken.",
+      "sentence_translated": "He wants a little beer to drink."
+    },
+    {
+      "word": "wonen",
+      "word_translated": "to live",
+      "sentence": "Ze woont met het meisje.",
+      "sentence_translated": "She lives with the girl."
+    },
+    {
+      "word": "gelezen",
+      "word_translated": "read (past participle)",
+      "sentence": "Hij heeft een boek gelezen over een andere stad.",
+      "sentence_translated": "He has read a book about another city."
+    }
+  ]
+}

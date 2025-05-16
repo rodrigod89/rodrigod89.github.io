@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 72,
+  "language": "nl",
+  "words": [
+    {
+      "word": "problemen",
+      "word_translated": "problems",
+      "sentence": "Ik heb problemen.",
+      "sentence_translated": "I have problems."
+    },
+    {
+      "word": "jaar",
+      "word_translated": "year",
+      "sentence": "Hij heeft problemen met het jaar.",
+      "sentence_translated": "He has problems with the year."
+    },
+    {
+      "word": "val",
+      "word_translated": "fall (verb)",
+      "sentence": "De trein valt vanwege problemen.",
+      "sentence_translated": "The train falls because of problems."
+    },
+    {
+      "word": "gemist",
+      "word_translated": "missed (past participle)",
+      "sentence": "Hij heeft het jaar gemist door problemen.",
+      "sentence_translated": "He missed the year because of problems."
+    },
+    {
+      "word": "laatste",
+      "word_translated": "last (adjective)",
+      "sentence": "De laatste trein valt vaak.",
+      "sentence_translated": "The last train often falls."
+    },
+    {
+      "word": "ho",
+      "word_translated": "high (adjective, colloquial for 'hoe' meaning how)",
+      "sentence": "Hoe hoog is de laatste trein?",
+      "sentence_translated": "How high is the last train?"
+    },
+    {
+      "word": "mix",
+      "word_translated": "mix (noun)",
+      "sentence": "Ik heb een mix van problemen en gemiste jaren.",
+      "sentence_translated": "I have a mix of problems and missed years."
+    },
+    {
+      "word": "fictie",
+      "word_translated": "fiction (noun)",
+      "sentence": "De fictie valt vaak in een mix van problemen.",
+      "sentence_translated": "The fiction often falls into a mix of problems."
+    },
+    {
+      "word": "vrees",
+      "word_translated": "fear (verb)",
+      "sentence": "Ik vrees dat de laatste trein valt.",
+      "sentence_translated": "I fear that the last train will fall."
+    },
+    {
+      "word": "neem",
+      "word_translated": "take (verb)",
+      "sentence": "Neem je de fictie van problemen?",
+      "sentence_translated": "Do you take the fiction of problems?"
+    }
+  ]
+}

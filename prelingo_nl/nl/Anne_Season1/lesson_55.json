@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 55,
+  "language": "nl",
+  "words": [
+    {
+      "word": "verstand",
+      "word_translated": "Verstand (NOUN) - understanding, mind",
+      "sentence": "Ik heb verstand.",
+      "sentence_translated": "I have an understanding."
+    },
+    {
+      "word": "archetypes",
+      "word_translated": "Archetypes (NOUN) - archetypen",
+      "sentence": "Verstand helpt bij het begrijpen van archetypes.",
+      "sentence_translated": "Understanding helps in comprehending archetypes."
+    },
+    {
+      "word": "rot",
+      "word_translated": "Rot (VERB) - to rot, decay",
+      "sentence": "Archetypes kunnen soms rottig voelen.",
+      "sentence_translated": "Archetypes can sometimes feel rotten."
+    },
+    {
+      "word": "voel",
+      "word_translated": "Voel (VERB) - to feel",
+      "sentence": "Ik voel dat het verstand heeft.",
+      "sentence_translated": "I feel that it has understanding."
+    },
+    {
+      "word": "bekend",
+      "word_translated": "Bekend (ADJ) - known, familiar",
+      "sentence": "Het is bekend dat archetypes voelen.",
+      "sentence_translated": "It is known that archetypes feel."
+    },
+    {
+      "word": "bizarre",
+      "word_translated": "Bizarre (ADJ) - bizarre, strange",
+      "sentence": "Sommige archetypes zijn bizarre en bekend.",
+      "sentence_translated": "Some archetypes are bizarre and known."
+    },
+    {
+      "word": "bluf",
+      "word_translated": "Bluf (NOUN) - bluff",
+      "sentence": "Een bluf kan soms bizarre lijken.",
+      "sentence_translated": "A bluff can sometimes seem bizarre."
+    },
+    {
+      "word": "huisfeest",
+      "word_translated": "Huisfeest (NOUN) - house party",
+      "sentence": "Op een huisfeest voel je soms bluf.",
+      "sentence_translated": "At a house party, you sometimes feel bluff."
+    },
+    {
+      "word": "klinken",
+      "word_translated": "Klinken (VERB) - to sound",
+      "sentence": "Een huisfeest kan bizarre klinken voor sommigen.",
+      "sentence_translated": "A house party can sound bizarre for some."
+    },
+    {
+      "word": "klonk",
+      "word_translated": "Klonk (VERB) - sounded",
+      "sentence": "Het huisfeest klonk vroeger bekend voor mij.",
+      "sentence_translated": "The house party sounded familiar to me earlier."
+    }
+  ]
+}

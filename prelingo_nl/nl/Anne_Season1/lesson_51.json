@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 51,
+  "language": "nl",
+  "words": [
+    {
+      "word": "werk",
+      "word_translated": "Job/Noun",
+      "sentence": "Ik heb werk.",
+      "sentence_translated": "I have a job."
+    },
+    {
+      "word": "teun",
+      "word_translated": "Teun (Noun)",
+      "sentence": "Teun heeft werk.",
+      "sentence_translated": "Teun has a job."
+    },
+    {
+      "word": "ontmoeten",
+      "word_translated": "To meet/Verb",
+      "sentence": "Ik ontmoet Teun.",
+      "sentence_translated": "I meet Teun."
+    },
+    {
+      "word": "woonde",
+      "word_translated": "Lived/Verb (past tense)",
+      "sentence": "Teun woondede in Amsterdam.",
+      "sentence_translated": "Teun lived in Amsterdam."
+    },
+    {
+      "word": "yarrr",
+      "word_translated": "Yarrr (Adjective, pirate-like expression)",
+      "sentence": "Hij zegt yarrr bij werk.",
+      "sentence_translated": "He says yarrr at work."
+    },
+    {
+      "word": "aanwezig",
+      "word_translated": "Present/Adjective",
+      "sentence": "Teun is aanwezig op de vergadering.",
+      "sentence_translated": "Teun is present at the meeting."
+    },
+    {
+      "word": "ineens",
+      "word_translated": "Suddenly/Advantageously",
+      "sentence": "Ineens ontmoet ik Teun.",
+      "sentence_translated": "Suddenly I meet Teun."
+    },
+    {
+      "word": "minder",
+      "word_translated": "Less/Adverb",
+      "sentence": "Ik heb minder werk dan Teun.",
+      "sentence_translated": "I have less work than Teun."
+    },
+    {
+      "word": "instagram",
+      "word_translated": "Instagram/Noun",
+      "sentence": "Teun deelt foto's op Instagram.",
+      "sentence_translated": "Teun shares photos on Instagram."
+    },
+    {
+      "word": "superlaagdrempelig",
+      "word_translated": "Super low-threshold/Adjective",
+      "sentence": "Het is superlaagdrempelig om met Teun te ontmoeten.",
+      "sentence_translated": "It's very easy to meet with Teun."
+    }
+  ]
+}

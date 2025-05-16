@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 40,
+  "language": "nl",
+  "words": [
+    {
+      "word": "verbitterd",
+      "word_translated": "bitter (feeling)",
+      "sentence": "Hij is verbitterd.",
+      "sentence_translated": "He is bitter."
+    },
+    {
+      "word": "geven",
+      "word_translated": "to give",
+      "sentence": "Ik geef een cadeau.",
+      "sentence_translated": "I am giving a gift."
+    },
+    {
+      "word": "gemak",
+      "word_translated": "comfort",
+      "sentence": "Hij zoekt gemak.",
+      "sentence_translated": "He seeks comfort."
+    },
+    {
+      "word": "wereldje",
+      "word_translated": "little world",
+      "sentence": "Ze creëren een eigen wereldje.",
+      "sentence_translated": "They create their own little world."
+    },
+    {
+      "word": "bevoorrecht",
+      "word_translated": "privileged",
+      "sentence": "Hij voelt zich bevoorrecht.",
+      "sentence_translated": "He feels privileged."
+    },
+    {
+      "word": "hetero",
+      "word_translated": "straight (sexual orientation)",
+      "sentence": "Ze zijn hetero.",
+      "sentence_translated": "They are straight."
+    },
+    {
+      "word": "halen",
+      "word_translated": "to fetch/take",
+      "sentence": "Ik ga het boek halen.",
+      "sentence_translated": "I am going to fetch the book."
+    },
+    {
+      "word": "sleep",
+      "word_translated": "to drag/pull (verb)",
+      "sentence": "Ze sleep een koffer.",
+      "sentence_translated": "They are dragging a suitcase."
+    },
+    {
+      "word": "jongens",
+      "word_translated": "boys",
+      "sentence": "De jongens spelen buiten.",
+      "sentence_translated": "The boys are playing outside."
+    },
+    {
+      "word": "coke",
+      "word_translated": "cola (soft drink)",
+      "sentence": "Hij drinkt coke bij de maaltijd.",
+      "sentence_translated": "He drinks cola with the meal."
+    }
+  ]
+}

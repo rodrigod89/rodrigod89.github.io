@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 20,
+  "language": "nl",
+  "words": [
+    {
+      "word": "lukt",
+      "word_translated": "succeeds (verb)",
+      "sentence": "Hij lukt het.",
+      "sentence_translated": "He succeeds."
+    },
+    {
+      "word": "vinden",
+      "word_translated": "find/think (verb)",
+      "sentence": "Ik vind dat hij lukt.",
+      "sentence_translated": "I think he succeeds."
+    },
+    {
+      "word": "briefwisseling",
+      "word_translated": "correspondence (noun)",
+      "sentence": "Hij heeft een briefwisseling met haar.",
+      "sentence_translated": "He has a correspondence with her."
+    },
+    {
+      "word": "vriendin",
+      "word_translated": "girlfriend (noun)",
+      "sentence": "Ze is zijn vriendin en vindt het leuk.",
+      "sentence_translated": "She is his girlfriend and finds it nice."
+    },
+    {
+      "word": "echte",
+      "word_translated": "real (adjective)",
+      "sentence": "Zij heeft een echte briefwisseling met haar vriendin.",
+      "sentence_translated": "She has a real correspondence with her girlfriend."
+    },
+    {
+      "word": "cool",
+      "word_translated": "cool (adjective)",
+      "sentence": "Ze vindt het cool dat hij lukt.",
+      "sentence_translated": "She thinks it's cool that he succeeds."
+    },
+    {
+      "word": "hebt",
+      "word_translated": "have (auxiliary verb, 2nd person singular)",
+      "sentence": "Jij hebt een echte vriendin en vindt het cool.",
+      "sentence_translated": "You have a real girlfriend and find it cool."
+    },
+    {
+      "word": "geweest",
+      "word_translated": "been (auxiliary verb, past participle)",
+      "sentence": "Hij is geweest in een briefwisseling met zijn vriendin.",
+      "sentence_translated": "He has been in a correspondence with his girlfriend."
+    },
+    {
+      "word": "oh",
+      "word_translated": "oh (interjection)",
+      "sentence": "Oh, hij heeft een echte vriendin geweest!",
+      "sentence_translated": "Oh, he has had a real girlfriend!"
+    },
+    {
+      "word": "hallo",
+      "word_translated": "hello (interjection)",
+      "sentence": "Hallo, oh ja, hij lukt het.",
+      "sentence_translated": "Hello, oh yes, he succeeds."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 15,
+  "language": "nl",
+  "words": [
+    {
+      "word": "dachten",
+      "word_translated": "thought (They thought)",
+      "sentence": "Ze dachten dat het goed was.",
+      "sentence_translated": "They thought it was good."
+    },
+    {
+      "word": "lezen",
+      "word_translated": "to read (I like to read)",
+      "sentence": "Ik lees graag boeken.",
+      "sentence_translated": "I like to read books."
+    },
+    {
+      "word": "schatje",
+      "word_translated": "darling (You are my darling)",
+      "sentence": "Jij bent mijn schatje.",
+      "sentence_translated": "You are my darling."
+    },
+    {
+      "word": "student",
+      "word_translated": "student (He is a student)",
+      "sentence": "Hij is een student.",
+      "sentence_translated": "He is a student."
+    },
+    {
+      "word": "irritant",
+      "word_translated": "annoying (That is annoying)",
+      "sentence": "Dat is irritant.",
+      "sentence_translated": "That is annoying."
+    },
+    {
+      "word": "schattig",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "liever",
+      "word_translated": "preferably/prefer (I prefer to stay home)",
+      "sentence": "Ik wil liever thuis blijven.",
+      "sentence_translated": "I prefer to stay at home."
+    },
+    {
+      "word": "samen",
+      "word_translated": "together (We study together)",
+      "sentence": "Wij studeren samen.",
+      "sentence_translated": "We study together."
+    },
+    {
+      "word": "allebei",
+      "word_translated": "both (They both like to read)",
+      "sentence": "Ze allebei houden van lezen.",
+      "sentence_translated": "They both like reading."
+    },
+    {
+      "word": "mij",
+      "word_translated": "me/myself (He helps me)",
+      "sentence": "Hij helpt mij.",
+      "sentence_translated": "He helps me."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 9,
+  "language": "nl",
+  "words": [
+    {
+      "word": "eruitziet",
+      "word_translated": "looks (from the outside)",
+      "sentence": "Het huis eruitziet vet.",
+      "sentence_translated": "The house looks great."
+    },
+    {
+      "word": "uitziet",
+      "word_translated": "looks like",
+      "sentence": "Hij uitziet lekker.",
+      "sentence_translated": "He looks good."
+    },
+    {
+      "word": "wow",
+      "word_translated": "Wow (expression of amazement)",
+      "sentence": "Wow, hij ziet eruit vet uit.",
+      "sentence_translated": "Wow, he looks great."
+    },
+    {
+      "word": "ex",
+      "word_translated": "ex (former partner)",
+      "sentence": "Zijn ex woont daar.",
+      "sentence_translated": "His ex lives there."
+    },
+    {
+      "word": "lekker",
+      "word_translated": "nice, tasty",
+      "sentence": "Het eten is lekker.",
+      "sentence_translated": "The food is nice."
+    },
+    {
+      "word": "wekelijkse",
+      "word_translated": "weekly",
+      "sentence": "We hebben wekelijkse burenfeestjes.",
+      "sentence_translated": "We have weekly neighborhood parties."
+    },
+    {
+      "word": "hier",
+      "word_translated": "here",
+      "sentence": "Ben je hier?",
+      "sentence_translated": "Are you here?"
+    },
+    {
+      "word": "daar",
+      "word_translated": "there",
+      "sentence": "Ga naar daar.",
+      "sentence_translated": "Go there."
+    },
+    {
+      "word": "bij",
+      "word_translated": "at, near",
+      "sentence": "Ik ben bij het huis.",
+      "sentence_translated": "I am at the house."
+    },
+    {
+      "word": "naar",
+      "word_translated": "to",
+      "sentence": "Ga naar de hoek.",
+      "sentence_translated": "Go to the corner."
+    }
+  ]
+}

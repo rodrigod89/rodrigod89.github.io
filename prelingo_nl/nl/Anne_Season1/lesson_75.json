@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 75,
+  "language": "nl",
+  "words": [
+    {
+      "word": "meenemen",
+      "word_translated": "to take along (a verb)",
+      "sentence": "Ik meenemen mijn boek.",
+      "sentence_translated": "I am taking my book along."
+    },
+    {
+      "word": "slapen",
+      "word_translated": "to sleep (a verb)",
+      "sentence": "Hij slaapt in bed.",
+      "sentence_translated": "He sleeps in bed."
+    },
+    {
+      "word": "vroeg",
+      "word_translated": "early (an adjective)",
+      "sentence": "Ik ga vroeg naar huis.",
+      "sentence_translated": "I am going home early."
+    },
+    {
+      "word": "latere",
+      "word_translated": "later (an adjective)",
+      "sentence": "We komen later thuis.",
+      "sentence_translated": "We will come home later."
+    },
+    {
+      "word": "lag",
+      "word_translated": "lay/slept (a verb, past tense of slapen)",
+      "sentence": "Hij lag in bed en sliep.",
+      "sentence_translated": "He lay in bed and slept."
+    },
+    {
+      "word": "krijgt",
+      "word_translated": "gets/receives (a verb)",
+      "sentence": "Ze krijgt een cadeau.",
+      "sentence_translated": "She receives a gift."
+    },
+    {
+      "word": "tof",
+      "word_translated": "cool/great (an adjective)",
+      "sentence": "Dat is een tof cadeau!",
+      "sentence_translated": "That is a great gift!"
+    },
+    {
+      "word": "ongelooflijk",
+      "word_translated": "incredible/amazing (an adjective)",
+      "sentence": "Het is ongelooflijk tof.",
+      "sentence_translated": "It is incredibly cool."
+    },
+    {
+      "word": "slim",
+      "word_translated": "smart/intelligent (an adjective)",
+      "sentence": "Hij is slim en krijgt goede cijfers.",
+      "sentence_translated": "He is smart and gets good grades."
+    },
+    {
+      "word": "getalenteerd",
+      "word_translated": "talented (an adjective)",
+      "sentence": "Ze is getalenteerd en heeft veel talenten.",
+      "sentence_translated": "She is talented and has many talents."
+    }
+  ]
+}

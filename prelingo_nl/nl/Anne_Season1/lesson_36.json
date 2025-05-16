@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 36,
+  "language": "nl",
+  "words": [
+    {
+      "word": "lieverd",
+      "word_translated": "darling (used affectionately)",
+      "sentence": "Ik ben je lieverd.",
+      "sentence_translated": "I am your darling."
+    },
+    {
+      "word": "kijk",
+      "word_translated": "look/watch",
+      "sentence": "Kijk, ik ben jouw lieverd.",
+      "sentence_translated": "Look, I am your darling."
+    },
+    {
+      "word": "supergoed",
+      "word_translated": "super good (excellent)",
+      "sentence": "Ik ben supergoed en je lieverd.",
+      "sentence_translated": "I am super good and your darling."
+    },
+    {
+      "word": "overtuiging",
+      "word_translated": "conviction/belief",
+      "sentence": "Mijn overtuiging is dat ik supergoed ben en jouw lieverd.",
+      "sentence_translated": "My conviction is that I am super good and your darling."
+    },
+    {
+      "word": "voorbij",
+      "word_translated": "by/over (as in past)",
+      "sentence": "De tijd is voorbij, maar ik ben nog steeds jouw lieverd.",
+      "sentence_translated": "The time has passed, but I am still your darling."
+    },
+    {
+      "word": "ander",
+      "word_translated": "other/different",
+      "sentence": "Ik ben geen ander dan je lieverd en ik heb een overtuiging.",
+      "sentence_translated": "I am no one else than your darling and I have a conviction."
+    },
+    {
+      "word": "mocht",
+      "word_translated": "might/may (past subjunctive of mogen)",
+      "sentence": "Ik mocht kijk naar je en ben jouw lieverd.",
+      "sentence_translated": "I might look at you and am your darling."
+    },
+    {
+      "word": "moest",
+      "word_translated": "had to (past tense of moeten)",
+      "sentence": "Ik moest geloven dat ik supergoed ben, maar ik ben jouw lieverd.",
+      "sentence_translated": "I had to believe that I am super good, but I am your darling."
+    },
+    {
+      "word": "joh",
+      "word_translated": "hey (informal interjection)",
+      "sentence": "Joh, ik ben jouw lieverd en heb een overtuiging.",
+      "sentence_translated": "Hey, I am your darling and have a conviction."
+    },
+    {
+      "word": "ah",
+      "word_translated": "aha (exclamation of realization)",
+      "sentence": "Ah, ik ben voorbij mochten we anders zijn.",
+      "sentence_translated": "Aha, I am past if we might be different."
+    }
+  ]
+}

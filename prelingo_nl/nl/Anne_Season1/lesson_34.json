@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 34,
+  "language": "nl",
+  "words": [
+    {
+      "word": "bedenken",
+      "word_translated": "to think of/to consider",
+      "sentence": "Ik bedenk een idee.",
+      "sentence_translated": "I'm thinking of an idea."
+    },
+    {
+      "word": "komt",
+      "word_translated": "comes",
+      "sentence": "Hij komt naar het feest.",
+      "sentence_translated": "He comes to the party."
+    },
+    {
+      "word": "cactus",
+      "word_translated": "cactus",
+      "sentence": "Ik heb een cactus in de tuin.",
+      "sentence_translated": "I have a cactus in the garden."
+    },
+    {
+      "word": "oog",
+      "word_translated": "eye",
+      "sentence": "Hij kijkt met zijn oog naar het feest.",
+      "sentence_translated": "He looks at the party with his eye."
+    },
+    {
+      "word": "gedatet",
+      "word_translated": "dated",
+      "sentence": "Het gedatete kaartje is in de tuin.",
+      "sentence_translated": "The dated card is in the garden."
+    },
+    {
+      "word": "onbeschoft",
+      "word_translated": "rude",
+      "sentence": "Hij is onbeschoft tijdens het feest.",
+      "sentence_translated": "He is rude during the party."
+    },
+    {
+      "word": "mag",
+      "word_translated": "may/might (auxiliary verb)",
+      "sentence": "Ik mag naar het feest gaan.",
+      "sentence_translated": "I may go to the party."
+    },
+    {
+      "word": "kun",
+      "word_translated": "can (auxiliary verb)",
+      "sentence": "Hij kan komen als hij wil.",
+      "sentence_translated": "He can come if he wants to."
+    },
+    {
+      "word": "jullie",
+      "word_translated": "you all/you guys (plural pronoun)",
+      "sentence": "Jullie kunnen naar het feest gaan.",
+      "sentence_translated": "You guys can go to the party."
+    },
+    {
+      "word": "mezelf",
+      "word_translated": "myself",
+      "sentence": "Ik bedenk mezelf een cadeau.",
+      "sentence_translated": "I'm thinking of a gift for myself."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 22,
+  "language": "nl",
+  "words": [
+    {
+      "word": "kwijtgeraakt",
+      "word_translated": "lost (as in losing track of something)",
+      "sentence": "Hij is kwijtgeraakt.",
+      "sentence_translated": "He is lost."
+    },
+    {
+      "word": "staat",
+      "word_translated": "(to) stand",
+      "sentence": "Het boek staat op tafel.",
+      "sentence_translated": "The book stands on the table."
+    },
+    {
+      "word": "boekennerd",
+      "word_translated": "book nerd",
+      "sentence": "Een boekennerd heeft veel boeken.",
+      "sentence_translated": "A book nerd has many books."
+    },
+    {
+      "word": "persoon",
+      "word_translated": "person",
+      "sentence": "Een persoon staat in de winkel.",
+      "sentence_translated": "A person stands in the store."
+    },
+    {
+      "word": "geliefde",
+      "word_translated": "(beloved) dear, loved one",
+      "sentence": "Mijn geliefde is een boekennerd.",
+      "sentence_translated": "My beloved is a book nerd."
+    },
+    {
+      "word": "mooi",
+      "word_translated": "beautiful",
+      "sentence": "Het is mooi, dat je mijn geliefde bent.",
+      "sentence_translated": "It's beautiful that you are my beloved."
+    },
+    {
+      "word": "terwijl",
+      "word_translated": "(while)",
+      "sentence": "Hij staat terwijl hij leest.",
+      "sentence_translated": "He stands while he reads."
+    },
+    {
+      "word": "alsof",
+      "word_translated": "(as if), (like)",
+      "sentence": "Het is alsof ik kwijtgeraakt ben.",
+      "sentence_translated": "It's as if I am lost."
+    },
+    {
+      "word": "maar",
+      "word_translated": "but",
+      "sentence": "Hij staat, maar hij leest niet.",
+      "sentence_translated": "He stands, but he does not read."
+    },
+    {
+      "word": "en",
+      "word_translated": "and",
+      "sentence": "Een persoon en een boekennerd staan samen.",
+      "sentence_translated": "A person and a book nerd stand together."
+    }
+  ]
+}

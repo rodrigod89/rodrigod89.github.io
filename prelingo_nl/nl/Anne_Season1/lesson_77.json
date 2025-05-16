@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 77,
+  "language": "nl",
+  "words": [
+    {
+      "word": "saar",
+      "word_translated": "A type of bread in Dutch cuisine",
+      "sentence": "Ik eet saar.",
+      "sentence_translated": "I eat saar."
+    },
+    {
+      "word": "hand",
+      "word_translated": "Hand",
+      "sentence": "Hij houdt van zijn hand.",
+      "sentence_translated": "He likes his hand."
+    },
+    {
+      "word": "geboren",
+      "word_translated": "Born",
+      "sentence": "Ze is geboren in Amsterdam.",
+      "sentence_translated": "She was born in Amsterdam."
+    },
+    {
+      "word": "gesproken",
+      "word_translated": "Spoken",
+      "sentence": "Hij heeft Nederlands gesproken.",
+      "sentence_translated": "He spoke Dutch."
+    },
+    {
+      "word": "stom",
+      "word_translated": "Deaf",
+      "sentence": "Ze is stom.",
+      "sentence_translated": "She is deaf."
+    },
+    {
+      "word": "middelbare",
+      "word_translated": "Secondary (as in education)",
+      "sentence": "Hij heeft middelbare school afgerond.",
+      "sentence_translated": "He finished secondary school."
+    },
+    {
+      "word": "kon",
+      "word_translated": "Could (past tense of kan)",
+      "sentence": "Ze kon goed zwemmen.",
+      "sentence_translated": "She could swim well."
+    },
+    {
+      "word": "werd",
+      "word_translated": "Was (past tense of worden)",
+      "sentence": "Hij werd arts.",
+      "sentence_translated": "He became a doctor."
+    },
+    {
+      "word": "haast",
+      "word_translated": "In haste, quickly",
+      "sentence": "Ze ging met haast naar huis.",
+      "sentence_translated": "She went home in haste."
+    },
+    {
+      "word": "daarom",
+      "word_translated": "Therefore, that's why",
+      "sentence": "Hij was ziek, daarom kwam hij niet.",
+      "sentence_translated": "He was sick, therefore he did not come."
+    }
+  ]
+}

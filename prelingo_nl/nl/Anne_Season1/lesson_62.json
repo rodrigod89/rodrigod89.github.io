@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 62,
+  "language": "nl",
+  "words": [
+    {
+      "word": "seks",
+      "word_translated": "sex (Noun)",
+      "sentence": "Ik heb seks.",
+      "sentence_translated": "I have sex."
+    },
+    {
+      "word": "god",
+      "word_translated": "God (Noun)",
+      "sentence": "Hij is god.",
+      "sentence_translated": "He is God."
+    },
+    {
+      "word": "schrijven",
+      "word_translated": "to write (Verb)",
+      "sentence": "Ik schrijf een brief.",
+      "sentence_translated": "I am writing a letter."
+    },
+    {
+      "word": "werken",
+      "word_translated": "to work (Verb)",
+      "sentence": "Hij werkt hard.",
+      "sentence_translated": "He works hard."
+    },
+    {
+      "word": "lief",
+      "word_translated": "cute, dear (Adjective)",
+      "sentence": "Dit kind is lief.",
+      "sentence_translated": "This child is cute."
+    },
+    {
+      "word": "kinderachtig",
+      "word_translated": "childish (Adjective)",
+      "sentence": "Zij is kinderachtig.",
+      "sentence_translated": "She is childish."
+    },
+    {
+      "word": "ervan",
+      "word_translated": "of it, from it (Adverb)",
+      "sentence": "Ik heb ervan gehoord.",
+      "sentence_translated": "I have heard of it."
+    },
+    {
+      "word": "pas",
+      "word_translated": "only, just (Adverb)",
+      "sentence": "Hij werkt pas.",
+      "sentence_translated": "He only works now."
+    },
+    {
+      "word": "mijn",
+      "word_translated": "my (Pronoun)",
+      "sentence": "Dit is mijn boek.",
+      "sentence_translated": "This is my book."
+    },
+    {
+      "word": "niemand",
+      "word_translated": "nobody, no one (Pronoun)",
+      "sentence": "Niemand is hier.",
+      "sentence_translated": "Nobody is here."
+    }
+  ]
+}

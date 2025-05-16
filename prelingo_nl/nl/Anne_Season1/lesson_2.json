@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 2,
+  "language": "nl",
+  "words": [
+    {
+      "word": "kom",
+      "word_translated": "come (verb)",
+      "sentence": "Ik kom.",
+      "sentence_translated": "I come."
+    },
+    {
+      "word": "denk",
+      "word_translated": "think (verb)",
+      "sentence": "Ik denk.",
+      "sentence_translated": "I think."
+    },
+    {
+      "word": "week",
+      "word_translated": "week (noun)",
+      "sentence": "Een week is lang.",
+      "sentence_translated": "A week is long."
+    },
+    {
+      "word": "zon",
+      "word_translated": "sun (noun)",
+      "sentence": "De zon schijnt.",
+      "sentence_translated": "The sun shines."
+    },
+    {
+      "word": "eigenlijk",
+      "word_translated": "actually (adjective)",
+      "sentence": "Ik ben eigenlijk blij.",
+      "sentence_translated": "I am actually happy."
+    },
+    {
+      "word": "verliefd",
+      "word_translated": "in love (adjective)",
+      "sentence": "Hij is verliefd.",
+      "sentence_translated": "He is in love."
+    },
+    {
+      "word": "ook",
+      "word_translated": "also (adverb)",
+      "sentence": "Ik kom ook.",
+      "sentence_translated": "I also come."
+    },
+    {
+      "word": "meer",
+      "word_translated": "more (adverb)",
+      "sentence": "Hij denkt meer over liefde.",
+      "sentence_translated": "He thinks more about love."
+    },
+    {
+      "word": "in",
+      "word_translated": "in (preposition)",
+      "sentence": "De zon is in de lucht.",
+      "sentence_translated": "The sun is in the sky."
+    },
+    {
+      "word": "om",
+      "word_translated": "about (preposition)",
+      "sentence": "Ik denk om liefde.",
+      "sentence_translated": "I think about love."
+    }
+  ]
+}

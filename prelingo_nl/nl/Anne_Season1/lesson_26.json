@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 26,
+  "language": "nl",
+  "words": [
+    {
+      "word": "twijfelen",
+      "word_translated": "to doubt or hesitate",
+      "sentence": "Ik twijfel.",
+      "sentence_translated": "I am hesitating."
+    },
+    {
+      "word": "maken",
+      "word_translated": "to make or do",
+      "sentence": "Hij maakt een keuze.",
+      "sentence_translated": "He makes a choice."
+    },
+    {
+      "word": "doeg",
+      "word_translated": "a type of beer",
+      "sentence": "Ik drink een doeg.",
+      "sentence_translated": "I am drinking a doeg."
+    },
+    {
+      "word": "bier",
+      "word_translated": "beer",
+      "sentence": "Hij maakt bier.",
+      "sentence_translated": "He makes beer."
+    },
+    {
+      "word": "los",
+      "word_translated": "loose or free",
+      "sentence": "De deur is los.",
+      "sentence_translated": "The door is loose."
+    },
+    {
+      "word": "leuke",
+      "word_translated": "funny, nice (adjective)",
+      "sentence": "Ik heb leuke dingen gezien.",
+      "sentence_translated": "I have seen some fun things."
+    },
+    {
+      "word": "gekregen",
+      "word_translated": "received",
+      "sentence": "Hij heeft een cadeau gekregen.",
+      "sentence_translated": "He received a gift."
+    },
+    {
+      "word": "willen",
+      "word_translated": "to want",
+      "sentence": "Ik wil bier drinken.",
+      "sentence_translated": "I want to drink beer."
+    },
+    {
+      "word": "beetje",
+      "word_translated": "a little bit",
+      "sentence": "Hij heeft een beetje twijfel.",
+      "sentence_translated": "He has a little doubt."
+    },
+    {
+      "word": "liefje",
+      "word_translated": "sweetheart, darling",
+      "sentence": "Ik wil mijn liefje zien.",
+      "sentence_translated": "I want to see my sweetheart."
+    }
+  ]
+}

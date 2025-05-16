@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 67,
+  "language": "nl",
+  "words": [
+    {
+      "word": "megacliché",
+      "word_translated": "Megacliché (Noun: Overused phrase or idea)",
+      "sentence": "Het is een megacliché.",
+      "sentence_translated": "It's a megacliché."
+    },
+    {
+      "word": "positie",
+      "word_translated": "Positie (Noun: Position)",
+      "sentence": "Zijn positie is belangrijk.",
+      "sentence_translated": "His position is important."
+    },
+    {
+      "word": "hoop",
+      "word_translated": "Hoop (Verb: To hope)",
+      "sentence": "Ik hoop dat hij komt.",
+      "sentence_translated": "I hope that he comes."
+    },
+    {
+      "word": "houdt",
+      "word_translated": "Houdt (Verb: Holds, keeps)",
+      "sentence": "Ze houdt van haar positie.",
+      "sentence_translated": "She likes her position."
+    },
+    {
+      "word": "open",
+      "word_translated": "Open (Adjective: Open)",
+      "sentence": "Het raam is open.",
+      "sentence_translated": "The window is open."
+    },
+    {
+      "word": "kennelijk",
+      "word_translated": "Kennelijk (Adjective: Clearly, obviously)",
+      "sentence": "Dat is kennelijk een megacliché.",
+      "sentence_translated": "That's clearly a megacliché."
+    },
+    {
+      "word": "iedereens",
+      "word_translated": "Iedereens (Adverb: Everyone's)",
+      "sentence": "Het raam is iedereens open.",
+      "sentence_translated": "The window is everyone's open."
+    },
+    {
+      "word": "genoeg",
+      "word_translated": "Genoeg (Adverb: Enough)",
+      "sentence": "Ze houdt genoeg van haar positie.",
+      "sentence_translated": "She likes her position enough."
+    },
+    {
+      "word": "relatie",
+      "word_translated": "Relatie (Noun: Relationship)",
+      "sentence": "De relatie is kennelijk goed.",
+      "sentence_translated": "The relationship is clearly good."
+    },
+    {
+      "word": "kantoor",
+      "word_translated": "Kantoor (Noun: Office)",
+      "sentence": "In het kantoor houdt iedereens van open ruimtes.",
+      "sentence_translated": "Everyone in the office likes open spaces."
+    }
+  ]
+}

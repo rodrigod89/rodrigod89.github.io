@@ -1,0 +1,50 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0106",
+  "lesson": 95,
+  "language": "nl",
+  "words": [
+    {
+      "word": "stemming",
+      "word_translated": "The process of reducing words to their base or root form (NOUN)",
+      "sentence": "Ik leer over stemming.",
+      "sentence_translated": "I am learning about stemming."
+    },
+    {
+      "word": "antwoord",
+      "word_translated": "A reply or response to a question (NOUN)",
+      "sentence": "Hij vraagt een antwoord over stemming.",
+      "sentence_translated": "He asks for an answer about stemming."
+    },
+    {
+      "word": "wegen",
+      "word_translated": "To weigh or consider something, often in terms of importance (VERB)",
+      "sentence": "Ik weeg het antwoord zorgvuldig.",
+      "sentence_translated": "I carefully weigh the answer."
+    },
+    {
+      "word": "gesprek",
+      "word_translated": "A conversation or dialogue between people (NOUN)",
+      "sentence": "We hebben een gesprek over stemming en antwoord.",
+      "sentence_translated": "We have a conversation about stemming and answers."
+    },
+    {
+      "word": "ding",
+      "word_translated": "An object, thing, or matter (NOUN)",
+      "sentence": "Dit ding is belangrijk in het gesprek.",
+      "sentence_translated": "This thing is important in the conversation."
+    },
+    {
+      "word": "pap",
+      "word_translated": "A type of porridge or mush, often for babies (NOUN)",
+      "sentence": "Ik heb pap voor de baby gemaakt.",
+      "sentence_translated": "I made porridge for the baby."
+    },
+    {
+      "word": "zonnebril",
+      "word_translated": "A pair of sunglasses used to protect eyes from the sun (NOUN)",
+      "sentence": "Ik draag een zonnebril bij het ontbijten.",
+      "sentence_translated": "I wear sunglasses during breakfast."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 8,
+  "language": "nl",
+  "words": [
+    {
+      "word": "woont",
+      "word_translated": "lives (verb)",
+      "sentence": "Hij woont in de buurt.",
+      "sentence_translated": "He lives in the neighborhood."
+    },
+    {
+      "word": "komen",
+      "word_translated": "come (verb)",
+      "sentence": "Ze komen vaak langs.",
+      "sentence_translated": "They often come by."
+    },
+    {
+      "word": "hoek",
+      "word_translated": "corner (noun)",
+      "sentence": "De hoek is dichtbij.",
+      "sentence_translated": "The corner is nearby."
+    },
+    {
+      "word": "buren",
+      "word_translated": "neighbors (noun)",
+      "sentence": "Mijn buren zijn vriendelijk.",
+      "sentence_translated": "My neighbors are friendly."
+    },
+    {
+      "word": "vet",
+      "word_translated": "fat (adjective)",
+      "sentence": "De kaas is vet.",
+      "sentence_translated": "The cheese is fatty."
+    },
+    {
+      "word": "best",
+      "word_translated": "best (adjective)",
+      "sentence": "Dat is het beste eten.",
+      "sentence_translated": "That is the best food."
+    },
+    {
+      "word": "helemaal",
+      "word_translated": "completely (adverb)",
+      "sentence": "Hij is helemaal klaar.",
+      "sentence_translated": "He is completely ready."
+    },
+    {
+      "word": "waar",
+      "word_translated": "where (adverb)",
+      "sentence": "Waar woont hij?",
+      "sentence_translated": "Where does he live?"
+    },
+    {
+      "word": "voor",
+      "word_translated": "for (preposition)",
+      "sentence": "Ik ga voor de buren.",
+      "sentence_translated": "I am going for the neighbors."
+    },
+    {
+      "word": "tussen",
+      "word_translated": "between (preposition)",
+      "sentence": "Het huis staat tussen twee hoeken.",
+      "sentence_translated": "The house is between two corners."
+    }
+  ]
+}

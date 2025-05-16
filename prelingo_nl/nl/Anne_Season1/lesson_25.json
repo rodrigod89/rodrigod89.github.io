@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 25,
+  "language": "nl",
+  "words": [
+    {
+      "word": "merkt",
+      "word_translated": "Realizes (verb)",
+      "sentence": "Ik merk dat het rustig is.",
+      "sentence_translated": "I realize that it is quiet."
+    },
+    {
+      "word": "blijkt",
+      "word_translated": "Turns out (verb)",
+      "sentence": "Het blijkt rustig te zijn.",
+      "sentence_translated": "It turns out to be quiet."
+    },
+    {
+      "word": "stage",
+      "word_translated": "Internship (noun)",
+      "sentence": "Ik heb een stage bij een bedrijf.",
+      "sentence_translated": "I have an internship at a company."
+    },
+    {
+      "word": "dingen",
+      "word_translated": "Things (plural noun)",
+      "sentence": "Op de stage leer je veel dingen.",
+      "sentence_translated": "In the internship, you learn many things."
+    },
+    {
+      "word": "tuurlijk",
+      "word_translated": "Of course (adjective)",
+      "sentence": "Tuurlijk wil ik een stage doen.",
+      "sentence_translated": "Of course, I want to do an internship."
+    },
+    {
+      "word": "jammer",
+      "word_translated": "Too bad (adjective)",
+      "sentence": "Het is jammer dat het regent.",
+      "sentence_translated": "It's too bad that it's raining."
+    },
+    {
+      "word": "lijkt",
+      "word_translated": "Seems (verb)",
+      "sentence": "Hij lijkt bang te zijn.",
+      "sentence_translated": "He seems to be afraid."
+    },
+    {
+      "word": "begon",
+      "word_translated": "Begun (past tense of begin, verb)",
+      "sentence": "De les begon met een quiz.",
+      "sentence_translated": "The class began with a quiz."
+    },
+    {
+      "word": "politicologie",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "zin",
+      "word_translated": "Sense, meaning (noun)",
+      "sentence": "Het heeft zin om te leren.",
+      "sentence_translated": "It makes sense to learn."
+    }
+  ]
+}

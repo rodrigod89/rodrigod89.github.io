@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 30,
+  "language": "nl",
+  "words": [
+    {
+      "word": "zei",
+      "word_translated": "said",
+      "sentence": "Hij zei ja.",
+      "sentence_translated": "He said yes."
+    },
+    {
+      "word": "gaan",
+      "word_translated": "to go",
+      "sentence": "Ik ga naar de winkel.",
+      "sentence_translated": "I am going to the store."
+    },
+    {
+      "word": "beha",
+      "word_translated": "broom",
+      "sentence": "Hij heeft een nieuwe beha.",
+      "sentence_translated": "He has a new broom."
+    },
+    {
+      "word": "bubbel",
+      "word_translated": "bubble",
+      "sentence": "Er is een bubbel in het water.",
+      "sentence_translated": "There is a bubble in the water."
+    },
+    {
+      "word": "erger",
+      "word_translated": "worse",
+      "sentence": "Het wordt erger als je niet oplet.",
+      "sentence_translated": "It gets worse if you don't pay attention."
+    },
+    {
+      "word": "knap",
+      "word_translated": "clever",
+      "sentence": "Ze is een knap meisje.",
+      "sentence_translated": "She is a clever girl."
+    },
+    {
+      "word": "terug",
+      "word_translated": "back",
+      "sentence": "Hij gaat terug naar huis.",
+      "sentence_translated": "He is going back home."
+    },
+    {
+      "word": "überhaupt",
+      "word_translated": "at all",
+      "sentence": "Ik snap het niet überhaupt.",
+      "sentence_translated": "I don't understand it at all."
+    },
+    {
+      "word": "na",
+      "word_translated": "after, to (preposition)",
+      "sentence": "Ga na de winkel.",
+      "sentence_translated": "Go after the store."
+    },
+    {
+      "word": "ehm",
+      "word_translated": "um",
+      "sentence": "Ehm, wat moet ik doen?",
+      "sentence_translated": "Um, what should I do?"
+    }
+  ]
+}

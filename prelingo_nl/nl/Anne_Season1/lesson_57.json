@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 57,
+  "language": "nl",
+  "words": [
+    {
+      "word": "meneer",
+      "word_translated": "Mr. (a polite way to address a man)",
+      "sentence": "Hij is meneer.",
+      "sentence_translated": "He is Mr."
+    },
+    {
+      "word": "frikadellen",
+      "word_translated": "Meatballs",
+      "sentence": "Meneer eet frikadellen.",
+      "sentence_translated": "Mr. eats meatballs."
+    },
+    {
+      "word": "gegeven",
+      "word_translated": "Given (past participle of the verb 'to give')",
+      "sentence": "Frikadellen zijn gegeven aan meneer.",
+      "sentence_translated": "Meatballs were given to Mr."
+    },
+    {
+      "word": "afspeelt",
+      "word_translated": "Plays (referring to a movie or show)",
+      "sentence": "De film speelt af en gegeven aan meneer.",
+      "sentence_translated": "The movie plays out and is given to Mr."
+    },
+    {
+      "word": "stil",
+      "word_translated": "Quiet (adjective describing lack of noise)",
+      "sentence": "Meneer speelt stil af.",
+      "sentence_translated": "Mr. plays quietly."
+    },
+    {
+      "word": "geil",
+      "word_translated": "Cool or awesome (informal positive adjective)",
+      "sentence": "De film is geil en speelt stil af.",
+      "sentence_translated": "The movie is cool and plays quietly."
+    },
+    {
+      "word": "broodafdeling",
+      "word_translated": "Bakery section",
+      "sentence": "Meneer gaat naar de broodafdeling.",
+      "sentence_translated": "Mr. goes to the bakery section."
+    },
+    {
+      "word": "la",
+      "word_translated": "Lye (a strong alkaline solution)",
+      "sentence": "In de broodafdeling is la.",
+      "sentence_translated": "There is lye in the bakery section."
+    },
+    {
+      "word": "hoeft",
+      "word_translated": "Doesn't need to (auxiliary verb indicating necessity)",
+      "sentence": "Meneer hoeft niet naar de broodafdeling te gaan.",
+      "sentence_translated": "Mr. doesn't need to go to the bakery section."
+    },
+    {
+      "word": "gebeuren",
+      "word_translated": "To happen (verb)",
+      "sentence": "Het gebeurt stil in de broodafdeling.",
+      "sentence_translated": "It happens quietly in the bakery section."
+    }
+  ]
+}

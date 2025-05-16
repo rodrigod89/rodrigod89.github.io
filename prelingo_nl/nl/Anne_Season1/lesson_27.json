@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 27,
+  "language": "nl",
+  "words": [
+    {
+      "word": "begint",
+      "word_translated": "begins",
+      "sentence": "Het begint.",
+      "sentence_translated": "It begins."
+    },
+    {
+      "word": "hoorde",
+      "word_translated": "heard",
+      "sentence": "Ik hoorde dat het begint.",
+      "sentence_translated": "I heard that it begins."
+    },
+    {
+      "word": "avond",
+      "word_translated": "evening",
+      "sentence": "De avond begint en ik hoorde muziek.",
+      "sentence_translated": "The evening begins and I heard music."
+    },
+    {
+      "word": "tentamen",
+      "word_translated": "exam",
+      "sentence": "Ik heb een tentamen de volgende avond.",
+      "sentence_translated": "I have an exam the next evening."
+    },
+    {
+      "word": "chill",
+      "word_translated": "relaxed",
+      "sentence": "Het is chill voor het tentamen.",
+      "sentence_translated": "It's relaxed before the exam."
+    },
+    {
+      "word": "opgelucht",
+      "word_translated": "relieved",
+      "sentence": "Ik ben opgelucht dat de avond chill is.",
+      "sentence_translated": "I am relieved that the evening is relaxed."
+    },
+    {
+      "word": "blijven",
+      "word_translated": "stay",
+      "sentence": "We blijven hier en genieten van de avond.",
+      "sentence_translated": "We stay here and enjoy the evening."
+    },
+    {
+      "word": "blijf",
+      "word_translated": "stay (I)",
+      "sentence": "Ik blijf chill om opgelucht te zijn.",
+      "sentence_translated": "I stay relaxed to be relieved."
+    },
+    {
+      "word": "jee",
+      "word_translated": "wow",
+      "sentence": "Jee, ik merkte dat het chill is!",
+      "sentence_translated": "Wow, I noticed that it's relaxed!"
+    },
+    {
+      "word": "merkte",
+      "word_translated": "noticed",
+      "sentence": "Ik merkte dat we blijven om te chillen.",
+      "sentence_translated": "I noticed that we stay to relax."
+    }
+  ]
+}

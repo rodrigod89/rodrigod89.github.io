@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 74,
+  "language": "nl",
+  "words": [
+    {
+      "word": "bank",
+      "word_translated": "bank (NOUN) - a place where money is kept or managed",
+      "sentence": "Het meisje gaat naar de bank.",
+      "sentence_translated": "The girl goes to the bank."
+    },
+    {
+      "word": "controle",
+      "word_translated": "controle (NOUN) - check or control",
+      "sentence": "Ze doet controle bij de bank.",
+      "sentence_translated": "She does a check at the bank."
+    },
+    {
+      "word": "mist",
+      "word_translated": "mist (VERB) - to forget",
+      "sentence": "Hij mist zijn controle.",
+      "sentence_translated": "He forgets his check."
+    },
+    {
+      "word": "overnachten",
+      "word_translated": "overnachten (VERB) - to spend the night",
+      "sentence": "Ze wil bij de bank overnachten.",
+      "sentence_translated": "She wants to stay overnight at the bank."
+    },
+    {
+      "word": "prima",
+      "word_translated": "prima (ADJ) - great or excellent",
+      "sentence": "Het is prima om te overnachten bij de bank.",
+      "sentence_translated": "It's great to stay overnight at the bank."
+    },
+    {
+      "word": "natte",
+      "word_translated": "natte (ADJ) - wet or damp",
+      "sentence": "De natte bank is niet prima voor overnachten.",
+      "sentence_translated": "The wet bank is not great for staying overnight."
+    },
+    {
+      "word": "emoties",
+      "word_translated": "emoties (NOUN) - emotions",
+      "sentence": "Zij miste haar emoties bij de natte bank.",
+      "sentence_translated": "She forgot her emotions at the wet bank."
+    },
+    {
+      "word": "vooruitzicht",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "verteld",
+      "word_translated": "verteld (VERB) - told",
+      "sentence": "Hij heeft zijn emoties verteld bij de bank.",
+      "sentence_translated": "He has told his emotions at the bank."
+    },
+    {
+      "word": "terughalen",
+      "word_translated": "terughalen (VERB) - to recall or remember",
+      "sentence": "Ze kan haar emoties terughalen bij de natte bank.",
+      "sentence_translated": "She can recall her emotions at the wet bank."
+    }
+  ]
+}

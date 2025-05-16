@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 29,
+  "language": "nl",
+  "words": [
+    {
+      "word": "geloof",
+      "word_translated": "believe (verb)",
+      "sentence": "Ik geloof dat het mooi is.",
+      "sentence_translated": "I believe that it is beautiful."
+    },
+    {
+      "word": "snap",
+      "word_translated": "understand (verb)",
+      "sentence": "Snap je dat ik geloof?",
+      "sentence_translated": "Do you understand that I believe?"
+    },
+    {
+      "word": "kut",
+      "word_translated": "dick (noun)",
+      "sentence": "Hij heeft een kut.",
+      "sentence_translated": "He has a dick."
+    },
+    {
+      "word": "vrienden",
+      "word_translated": "friends (noun)",
+      "sentence": "Wij hebben vrienden en geloof.",
+      "sentence_translated": "We have friends and belief."
+    },
+    {
+      "word": "nieuwe",
+      "word_translated": "new (adjective)",
+      "sentence": "Ik heb nieuwe vrienden.",
+      "sentence_translated": "I have new friends."
+    },
+    {
+      "word": "nodig",
+      "word_translated": "necessary (adjective)",
+      "sentence": "Nieuwe vrienden zijn nodig.",
+      "sentence_translated": "New friends are necessary."
+    },
+    {
+      "word": "anders",
+      "word_translated": "otherwise (adverb)",
+      "sentence": "Ik snap het anders niet.",
+      "sentence_translated": "I don't understand it otherwise."
+    },
+    {
+      "word": "jawel",
+      "word_translated": "yes indeed (adverb)",
+      "sentence": "Jawel, ik geloof dat.",
+      "sentence_translated": "Yes indeed, I believe that."
+    },
+    {
+      "word": "volgens",
+      "word_translated": "according to (preposition)",
+      "sentence": "Volgens mij is het nodig.",
+      "sentence_translated": "According to me, it's necessary."
+    },
+    {
+      "word": "naast",
+      "word_translated": "next to (preposition)",
+      "sentence": "Mijn nieuwe vrienden zitten naast mij.",
+      "sentence_translated": "My new friends are sitting next to me."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 82,
+  "language": "nl",
+  "words": [
+    {
+      "word": "leeftijd",
+      "word_translated": "Age",
+      "sentence": "Hij heeft een leeftijd.",
+      "sentence_translated": "He has an age."
+    },
+    {
+      "word": "waterballet",
+      "word_translated": "Water ballet",
+      "sentence": "Ik zie waterballet in het zwembad.",
+      "sentence_translated": "I see water ballet in the swimming pool."
+    },
+    {
+      "word": "plaatsen",
+      "word_translated": "To place",
+      "sentence": "Ze plaatsen een leeftijd op de kaart.",
+      "sentence_translated": "They place an age on the map."
+    },
+    {
+      "word": "forceren",
+      "word_translated": "To force",
+      "sentence": "Hij wil waterballet forceren.",
+      "sentence_translated": "He wants to force water ballet."
+    },
+    {
+      "word": "dikke",
+      "word_translated": "Thick",
+      "sentence": "De dikke leeftijd is moeilijk.",
+      "sentence_translated": "The thick age is difficult."
+    },
+    {
+      "word": "supersterk",
+      "word_translated": "Super strong",
+      "sentence": "Ze zijn supersterk en kunnen waterballet forceren.",
+      "sentence_translated": "They are super strong and can force water ballet."
+    },
+    {
+      "word": "koffie",
+      "word_translated": "Coffee",
+      "sentence": "Ik drink koffie na het zwembad.",
+      "sentence_translated": "I drink coffee after the swimming pool."
+    },
+    {
+      "word": "maand",
+      "word_translated": "Month",
+      "sentence": "De leeftijd is een maand oud.",
+      "sentence_translated": "The age is one month old."
+    },
+    {
+      "word": "afgestudeerd",
+      "word_translated": "Graduated",
+      "sentence": "Hij is afgestudeerd en drinkt koffie.",
+      "sentence_translated": "He has graduated and drinks coffee."
+    },
+    {
+      "word": "gefeliciteerd",
+      "word_translated": "Congratulated",
+      "sentence": "Ik feliciteer je, want je bent afgestudeerd!",
+      "sentence_translated": "I congratulate you because you have graduated!"
+    }
+  ]
+}

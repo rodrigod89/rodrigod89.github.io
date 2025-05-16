@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 69,
+  "language": "nl",
+  "words": [
+    {
+      "word": "excelbestandje",
+      "word_translated": "Excel file (small)",
+      "sentence": "Ik heb een excelbestandje.",
+      "sentence_translated": "I have an Excel file."
+    },
+    {
+      "word": "spelletje",
+      "word_translated": "Little game",
+      "sentence": "Wil je een spelletje spelen?",
+      "sentence_translated": "Would you like to play a little game?"
+    },
+    {
+      "word": "afmaken",
+      "word_translated": "To finish, to complete",
+      "sentence": "Ik moet het excelbestandje afmaken.",
+      "sentence_translated": "I need to finish the Excel file."
+    },
+    {
+      "word": "werkte",
+      "word_translated": "Worked (past tense)",
+      "sentence": "Het spelletje werkte goed.",
+      "sentence_translated": "The little game worked well."
+    },
+    {
+      "word": "dringend",
+      "word_translated": "Urgently, urgently needed",
+      "sentence": "Ik heb het excelbestandje dringend nodig.",
+      "sentence_translated": "I urgently need the Excel file."
+    },
+    {
+      "word": "ongemakkelijk",
+      "word_translated": "Uncomfortable",
+      "sentence": "Het is ongemakkelijk om te werken zonder het excelbestandje.",
+      "sentence_translated": "It's uncomfortable to work without the Excel file."
+    },
+    {
+      "word": "morgen",
+      "word_translated": "Tomorrow",
+      "sentence": "Ik wil het spelletje morgen afmaken.",
+      "sentence_translated": "I want to finish the game tomorrow."
+    },
+    {
+      "word": "inderdaad",
+      "word_translated": "Indeed, really",
+      "sentence": "Het is inderdaad dringend om dat te doen.",
+      "sentence_translated": "It's indeed urgent to do that."
+    },
+    {
+      "word": "minuten",
+      "word_translated": "Minutes",
+      "sentence": "Ik heb het excelbestandje binnen minuten afgehandeld.",
+      "sentence_translated": "I completed the Excel file within minutes."
+    },
+    {
+      "word": "planning",
+      "word_translated": "Planning, schedule",
+      "sentence": "De planning is ongemakkelijk zonder het excelbestandje.",
+      "sentence_translated": "The planning is uncomfortable without the Excel file."
+    }
+  ]
+}

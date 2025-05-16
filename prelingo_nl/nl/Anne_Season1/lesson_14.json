@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 14,
+  "language": "nl",
+  "words": [
+    {
+      "word": "studeren",
+      "word_translated": "to study",
+      "sentence": "Ik studeren.",
+      "sentence_translated": "I study."
+    },
+    {
+      "word": "breng",
+      "word_translated": "(you) bring",
+      "sentence": "Breng het boek naar de klas.",
+      "sentence_translated": "Bring the book to the class."
+    },
+    {
+      "word": "stelletje",
+      "word_translated": "pair (of things)",
+      "sentence": "Ik heb een stelletje schalen.",
+      "sentence_translated": "I have a pair of bowls."
+    },
+    {
+      "word": "shit",
+      "word_translated": "crap, nonsense",
+      "sentence": "Dat is zeker shit.",
+      "sentence_translated": "That's definitely crap."
+    },
+    {
+      "word": "jong",
+      "word_translated": "young (adj.)",
+      "sentence": "Hij is jong.",
+      "sentence_translated": "He is young."
+    },
+    {
+      "word": "verder",
+      "word_translated": "further, more",
+      "sentence": "Ik wil verder studeren.",
+      "sentence_translated": "I want to study further."
+    },
+    {
+      "word": "bijvoorbeeld",
+      "word_translated": "for example",
+      "sentence": "Bijvoorbeeld, hij is jong.",
+      "sentence_translated": "For example, he is young."
+    },
+    {
+      "word": "erin",
+      "word_translated": "in it",
+      "sentence": "Breng het erin.",
+      "sentence_translated": "Put it in there."
+    },
+    {
+      "word": "alles",
+      "word_translated": "everything",
+      "sentence": "Hij heeft alles bij zich.",
+      "sentence_translated": "He has everything with him."
+    },
+    {
+      "word": "hem",
+      "word_translated": "him (pronoun)",
+      "sentence": "Ik breng het boek aan hem.",
+      "sentence_translated": "I bring the book to him."
+    }
+  ]
+}

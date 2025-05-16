@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 43,
+  "language": "nl",
+  "words": [
+    {
+      "word": "afgeschermde",
+      "word_translated": "shielded (verb, as in 'to shield')",
+      "sentence": "Ik heb een afgeschermde tussentijd.",
+      "sentence_translated": "I have a shielded break."
+    },
+    {
+      "word": "zeiken",
+      "word_translated": "complain (verb)",
+      "sentence": "Hij zeikt over de enorme markt.",
+      "sentence_translated": "He complains about the enormous market."
+    },
+    {
+      "word": "gastenlijst",
+      "word_translated": "guest list (noun)",
+      "sentence": "De gastenlijst is enorm lang.",
+      "sentence_translated": "The guest list is very long."
+    },
+    {
+      "word": "junk",
+      "word_translated": "junk (noun, as in 'garbage or trash')",
+      "sentence": "Junk op de markt is veel.",
+      "sentence_translated": "There's a lot of junk at the market."
+    },
+    {
+      "word": "lesbisch",
+      "word_translated": "lesbian (adjective)",
+      "sentence": "Ze zijn gelukkig en lesbisch.",
+      "sentence_translated": "They are happy and lesbian."
+    },
+    {
+      "word": "gelukkig",
+      "word_translated": "happy (adjective)",
+      "sentence": "Ik ben gelukkig met de gastenlijst.",
+      "sentence_translated": "I am happy with the guest list."
+    },
+    {
+      "word": "denkt",
+      "word_translated": "thinks (verb, third person singular of 'to think')",
+      "sentence": "Hij denkt dat het afgeschermde is.",
+      "sentence_translated": "He thinks it's shielded."
+    },
+    {
+      "word": "inhoudt",
+      "word_translated": "contains (verb, as in 'includes or has within')",
+      "sentence": "De gastenlijst inhoudt veel namen.",
+      "sentence_translated": "The guest list contains many names."
+    },
+    {
+      "word": "junkie",
+      "word_translated": "junkie (noun, as in 'addict')",
+      "sentence": "Een junkie zeikt over junk.",
+      "sentence_translated": "A junkie complains about junk."
+    },
+    {
+      "word": "an",
+      "word_translated": "a/an (article)",
+      "sentence": "An afgeschermde tussentijd is mooi.",
+      "sentence_translated": "A shielded break is nice."
+    }
+  ]
+}

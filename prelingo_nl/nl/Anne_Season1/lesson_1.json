@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 1,
+  "language": "nl",
+  "words": [
+    {
+      "word": "klinkt",
+      "word_translated": "sounds (verb)",
+      "sentence": "Hoe klinkt dat?",
+      "sentence_translated": "How does that sound?"
+    },
+    {
+      "word": "weet",
+      "word_translated": "knows/know (verb)",
+      "sentence": "Ik weet het.",
+      "sentence_translated": "I know it."
+    },
+    {
+      "word": "liefde",
+      "word_translated": "love (noun)",
+      "sentence": "Liefde klinkt goed.",
+      "sentence_translated": "Love sounds good."
+    },
+    {
+      "word": "doei",
+      "word_translated": "bye (informal noun used as interjection)",
+      "sentence": "Doei, ik weet het.",
+      "sentence_translated": "Bye, I know it."
+    },
+    {
+      "word": "echt",
+      "word_translated": "real/genuine (adjective)",
+      "sentence": "Echt liefde klinkt goed.",
+      "sentence_translated": "Real love sounds good."
+    },
+    {
+      "word": "oké",
+      "word_translated": "okay/fine (adjective)",
+      "sentence": "Oké, ik weet het.",
+      "sentence_translated": "Okay, I know it."
+    },
+    {
+      "word": "nou",
+      "word_translated": "now (adverb)",
+      "sentence": "Nou, liefde klinkt echt goed.",
+      "sentence_translated": "Now, love sounds really good."
+    },
+    {
+      "word": "wel",
+      "word_translated": "indeed/actually (adverb)",
+      "sentence": "Wel, ik weet dat.",
+      "sentence_translated": "Indeed, I know that."
+    },
+    {
+      "word": "op",
+      "word_translated": "on/at (preposition)",
+      "sentence": "Op de radio klinkt liefde echt goed.",
+      "sentence_translated": "On the radio, love sounds really good."
+    },
+    {
+      "word": "te",
+      "word_translated": "to/at (preposition used with infinitives)",
+      "sentence": "Het is te horen dat liefde echt klinkt goed.",
+      "sentence_translated": "It can be heard that real love sounds good."
+    }
+  ]
+}

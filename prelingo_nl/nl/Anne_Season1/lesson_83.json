@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 83,
+  "language": "nl",
+  "words": [
+    {
+      "word": "grapje",
+      "word_translated": "small joke",
+      "sentence": "Ik heb een grapje.",
+      "sentence_translated": "I have a small joke."
+    },
+    {
+      "word": "grapjes",
+      "word_translated": "small jokes",
+      "sentence": "Hij heeft veel grapjes.",
+      "sentence_translated": "He has many small jokes."
+    },
+    {
+      "word": "lopen",
+      "word_translated": "to walk",
+      "sentence": "Ik wil lopen.",
+      "sentence_translated": "I want to walk."
+    },
+    {
+      "word": "pakken",
+      "word_translated": "to grab, to catch",
+      "sentence": "Hij pakt een grapje.",
+      "sentence_translated": "He grabs a small joke."
+    },
+    {
+      "word": "officieel",
+      "word_translated": "officially",
+      "sentence": "Het is officieel.",
+      "sentence_translated": "It is official."
+    },
+    {
+      "word": "allereerste",
+      "word_translated": "very first",
+      "sentence": "Dit is het allereerste grapje.",
+      "sentence_translated": "This is the very first small joke."
+    },
+    {
+      "word": "telefoon",
+      "word_translated": "telephone, phone",
+      "sentence": "Ik pak de telefoon.",
+      "sentence_translated": "I grab the phone."
+    },
+    {
+      "word": "aandacht",
+      "word_translated": "attention",
+      "sentence": "Hij heeft aandacht voor grapjes.",
+      "sentence_translated": "He pays attention to small jokes."
+    },
+    {
+      "word": "zoenen",
+      "word_translated": "to kiss (plural)",
+      "sentence": "Zij zoenen elkaar.",
+      "sentence_translated": "They kiss each other."
+    },
+    {
+      "word": "zoen",
+      "word_translated": "to kiss (singular)",
+      "sentence": "Ik wil een grapje en een zoen.",
+      "sentence_translated": "I want a small joke and a kiss."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 78,
+  "language": "nl",
+  "words": [
+    {
+      "word": "maanden",
+      "word_translated": "months",
+      "sentence": "Ik heb maanden gewerkt.",
+      "sentence_translated": "I have worked for months."
+    },
+    {
+      "word": "verkering",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "stel",
+      "word_translated": "couple (verb: to couple)",
+      "sentence": "Hij stelt een plan voor.",
+      "sentence_translated": "He proposes a plan."
+    },
+    {
+      "word": "studeerde",
+      "word_translated": "studied",
+      "sentence": "Ze studeerde in Amsterdam.",
+      "sentence_translated": "She studied in Amsterdam."
+    },
+    {
+      "word": "beter",
+      "word_translated": "better",
+      "sentence": "Ik ben beter geworden.",
+      "sentence_translated": "I have become better."
+    },
+    {
+      "word": "blij",
+      "word_translated": "happy (adjective)",
+      "sentence": "Ze is blij met de resultaten.",
+      "sentence_translated": "She is happy with the results."
+    },
+    {
+      "word": "worden",
+      "word_translated": "to become",
+      "sentence": "Hij wordt een leraar.",
+      "sentence_translated": "He will become a teacher."
+    },
+    {
+      "word": "kunt",
+      "word_translated": "(you) can (auxiliary verb)",
+      "sentence": "Je kunt dit doen.",
+      "sentence_translated": "You can do this."
+    },
+    {
+      "word": "tenminste",
+      "word_translated": "at least",
+      "sentence": "Ik heb tenminste een uur gewerkt.",
+      "sentence_translated": "I have worked for at least an hour."
+    },
+    {
+      "word": "sommige",
+      "word_translated": "some (determiner)",
+      "sentence": "Sommige mensen zijn stil.",
+      "sentence_translated": "Some people are quiet."
+    }
+  ]
+}

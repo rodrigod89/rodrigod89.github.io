@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 38,
+  "language": "nl",
+  "words": [
+    {
+      "word": "tegenkwam",
+      "word_translated": "met tegenkwam (encountered)",
+      "sentence": "Ik tegenkwam een vriend.",
+      "sentence_translated": "I encountered a friend."
+    },
+    {
+      "word": "ziet",
+      "word_translated": "hij ziet (he sees)",
+      "sentence": "Hij ziet de lichting.",
+      "sentence_translated": "He sees the light."
+    },
+    {
+      "word": "college",
+      "word_translated": "een college (a lecture)",
+      "sentence": "Ik heb een college.",
+      "sentence_translated": "I have a lecture."
+    },
+    {
+      "word": "meid",
+      "word_translated": "de meid (the girl)",
+      "sentence": "De meid ziet de lichting.",
+      "sentence_translated": "The girl sees the light."
+    },
+    {
+      "word": "moeilijk",
+      "word_translated": "een moeilijke college (a difficult lecture)",
+      "sentence": "Het is een moeilijk college.",
+      "sentence_translated": "It is a difficult lecture."
+    },
+    {
+      "word": "betonnen",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "kwam",
+      "word_translated": "ik kwam (I came)",
+      "sentence": "Ik kwam met een vriend tegen.",
+      "sentence_translated": "I encountered a friend."
+    },
+    {
+      "word": "daten",
+      "word_translated": "zij dateren (they date)",
+      "sentence": "Zij dateren elkaar na het college.",
+      "sentence_translated": "They date each other after the lecture."
+    },
+    {
+      "word": "bieb",
+      "word_translated": "de bieb (the library)",
+      "sentence": "De meid gaat naar de bieb.",
+      "sentence_translated": "The girl goes to the library."
+    },
+    {
+      "word": "soort",
+      "word_translated": "een soort boek (a kind of book)",
+      "sentence": "In de bieb is een soort moeilijk boek.",
+      "sentence_translated": "In the library, there is a difficult kind of book."
+    }
+  ]
+}

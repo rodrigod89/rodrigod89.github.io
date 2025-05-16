@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 44,
+  "language": "nl",
+  "words": [
+    {
+      "word": "praat",
+      "word_translated": "to talk",
+      "sentence": "Ik praat met je.",
+      "sentence_translated": "I am talking to you."
+    },
+    {
+      "word": "wist",
+      "word_translated": "knew (past tense of weten)",
+      "sentence": "Hij wist dat ik praat.",
+      "sentence_translated": "He knew that I am talking."
+    },
+    {
+      "word": "emotie",
+      "word_translated": "emotion",
+      "sentence": "Ik praat over emotie.",
+      "sentence_translated": "I talk about emotion."
+    },
+    {
+      "word": "fucking",
+      "word_translated": "a strong expression of emphasis or frustration, used as a noun here for emphasis",
+      "sentence": "Hij wist van fucking emotie.",
+      "sentence_translated": "He knew about that damn emotion."
+    },
+    {
+      "word": "recht",
+      "word_translated": "right (adj.)",
+      "sentence": "Het is recht om te praten over emotie.",
+      "sentence_translated": "It's right to talk about emotions."
+    },
+    {
+      "word": "aantrekken",
+      "word_translated": "to attract",
+      "sentence": "Emotie trekt mensen aan.",
+      "sentence_translated": "Emotion attracts people."
+    },
+    {
+      "word": "gedumpt",
+      "word_translated": "dumped (past participle of dumpen)",
+      "sentence": "Hij voelt zich gedumpt en praat niet.",
+      "sentence_translated": "He feels dumped and doesn't talk."
+    },
+    {
+      "word": "muur",
+      "word_translated": "wall",
+      "sentence": "Een muur scheidt emotie en gedachte.",
+      "sentence_translated": "A wall separates emotion and thought."
+    },
+    {
+      "word": "spul",
+      "word_translated": "stuff, thing",
+      "sentence": "Ik heb spul nodig om de muur te verbergen.",
+      "sentence_translated": "I need stuff to hide the wall."
+    },
+    {
+      "word": "aangesproken",
+      "word_translated": "addressed (past participle of aanspreken)",
+      "sentence": "Ik voel me aangesproken door emotie.",
+      "sentence_translated": "I feel addressed by emotion."
+    }
+  ]
+}

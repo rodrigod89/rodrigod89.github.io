@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 4,
+  "language": "nl",
+  "words": [
+    {
+      "word": "gaat",
+      "word_translated": "goes (verb)",
+      "sentence": "Hij gaat.",
+      "sentence_translated": "He goes."
+    },
+    {
+      "word": "bedoeld",
+      "word_translated": "meant (past participle of verb, used as adjective)",
+      "sentence": "Dat is bedoeld.",
+      "sentence_translated": "That is meant."
+    },
+    {
+      "word": "films",
+      "word_translated": "movies (noun)",
+      "sentence": "Ik zie films.",
+      "sentence_translated": "I watch movies."
+    },
+    {
+      "word": "adem",
+      "word_translated": "breath (noun)",
+      "sentence": "Hij haalt adem.",
+      "sentence_translated": "He takes a breath."
+    },
+    {
+      "word": "serieus",
+      "word_translated": "serious (adjective)",
+      "sentence": "Het is serieus.",
+      "sentence_translated": "It is serious."
+    },
+    {
+      "word": "gewoon",
+      "word_translated": "normal (adjective)",
+      "sentence": "Dat is gewoon.",
+      "sentence_translated": "That is normal."
+    },
+    {
+      "word": "nog",
+      "word_translated": "still/yet (adverb)",
+      "sentence": "Ik ga nog.",
+      "sentence_translated": "I still go."
+    },
+    {
+      "word": "dus",
+      "word_translated": "so/therefore (conjunction/adverb)",
+      "sentence": "Hij gaat dus.",
+      "sentence_translated": "So, he goes."
+    },
+    {
+      "word": "met",
+      "word_translated": "with (preposition)",
+      "sentence": "Ik ga met hem.",
+      "sentence_translated": "I go with him."
+    },
+    {
+      "word": "over",
+      "word_translated": "about/over (preposition)",
+      "sentence": "Hij gaat over dat onderwerp.",
+      "sentence_translated": "He talks about that topic."
+    }
+  ]
+}

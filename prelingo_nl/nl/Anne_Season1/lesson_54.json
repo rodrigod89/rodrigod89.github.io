@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 54,
+  "language": "nl",
+  "words": [
+    {
+      "word": "voorstelling",
+      "word_translated": "Performance",
+      "sentence": "Ik ga naar een voorstelling.",
+      "sentence_translated": "I am going to a performance."
+    },
+    {
+      "word": "theater",
+      "word_translated": "Theatre",
+      "sentence": "De voorstelling is in het theater.",
+      "sentence_translated": "The performance is at the theatre."
+    },
+    {
+      "word": "samenwonen",
+      "word_translated": "To live together",
+      "sentence": "Ze besluiten samen te wonen na de theatervoorstelling.",
+      "sentence_translated": "They decide to live together after the theatre performance."
+    },
+    {
+      "word": "nemen",
+      "word_translated": "To take",
+      "sentence": "We nemen een taxi naar het theater.",
+      "sentence_translated": "We take a taxi to the theatre."
+    },
+    {
+      "word": "eerder",
+      "word_translated": "Earlier",
+      "sentence": "Ik heb eerder voorstellingen gezien.",
+      "sentence_translated": "I have seen performances earlier."
+    },
+    {
+      "word": "vorige",
+      "word_translated": "Previous",
+      "sentence": "De vorige theatervoorstelling was erg leuk.",
+      "sentence_translated": "The previous theatre performance was very nice."
+    },
+    {
+      "word": "regieopleiding",
+      "word_translated": "Directing course",
+      "sentence": "Hij volgt een regieopleiding voorstellingen te maken.",
+      "sentence_translated": "He is taking a directing course to make performances."
+    },
+    {
+      "word": "wauw",
+      "word_translated": "Wow (expression of amazement)",
+      "sentence": "Wauw, de regieopleiding was geweldig!",
+      "sentence_translated": "Wow, the directing course was amazing!"
+    },
+    {
+      "word": "chillen",
+      "word_translated": "To chill",
+      "sentence": "Na het theater kunnen we samen chillen.",
+      "sentence_translated": "After the theatre, we can chill together."
+    },
+    {
+      "word": "schrik",
+      "word_translated": "Shock (verb: to shock)",
+      "sentence": "De voorstelling schokte ons met een wauw-moment.",
+      "sentence_translated": "The performance shocked us with a wow moment."
+    }
+  ]
+}

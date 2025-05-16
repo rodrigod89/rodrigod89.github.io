@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 52,
+  "language": "nl",
+  "words": [
+    {
+      "word": "kat",
+      "word_translated": "cat (a small domesticated carnivorous mammal)",
+      "sentence": "Ik heb een kat.",
+      "sentence_translated": "I have a cat."
+    },
+    {
+      "word": "goedenavond",
+      "word_translated": "good evening",
+      "sentence": "Goedenavond, ik zie je kat.",
+      "sentence_translated": "Good evening, I see your cat."
+    },
+    {
+      "word": "mislukt",
+      "word_translated": "failed (did not succeed)",
+      "sentence": "Het plan mislukt.",
+      "sentence_translated": "The plan failed."
+    },
+    {
+      "word": "zag",
+      "word_translated": "saw (past tense of see)",
+      "sentence": "Ik zag dat het mislukt was.",
+      "sentence_translated": "I saw that it had failed."
+    },
+    {
+      "word": "danil",
+      "word_translated": "Danil (adjective form used for describing something characteristic of Danil, e.g., 'Danil-like')",
+      "sentence": "Dat was danil.",
+      "sentence_translated": "That was Danil-like."
+    },
+    {
+      "word": "bezig",
+      "word_translated": "busy (engaged in an activity)",
+      "sentence": "Ik ben bezig met de kat.",
+      "sentence_translated": "I am busy with the cat."
+    },
+    {
+      "word": "alstublieft",
+      "word_translated": "please (a polite way to make a request)",
+      "sentence": "Alstublieft, help me met de kat.",
+      "sentence_translated": "Please, help me with the cat."
+    },
+    {
+      "word": "steeds",
+      "word_translated": "always (at all times or on every occasion)",
+      "sentence": "Ik zag steeds de kat.",
+      "sentence_translated": "I always saw the cat."
+    },
+    {
+      "word": "puber",
+      "word_translated": "teenager (a young person in the process of developing from a child into an adult)",
+      "sentence": "De puber is bezig met zijn kat.",
+      "sentence_translated": "The teenager is busy with his cat."
+    },
+    {
+      "word": "petje",
+      "word_translated": "little pet (a small animal kept for companionship)",
+      "sentence": "De puber heeft een petje, een kat.",
+      "sentence_translated": "The teenager has a little pet, a cat."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 11,
+  "language": "nl",
+  "words": [
+    {
+      "word": "wou",
+      "word_translated": "wanted",
+      "sentence": "Hij wou zwemmen.",
+      "sentence_translated": "He wanted to swim."
+    },
+    {
+      "word": "trilt",
+      "word_translated": "shakes",
+      "sentence": "De spinvis trilt niet.",
+      "sentence_translated": "The spider doesn't shake."
+    },
+    {
+      "word": "vriendinnetje",
+      "word_translated": "little girlfriend",
+      "sentence": "Ze heeft een vriendinnetje.",
+      "sentence_translated": "She has a little girlfriend."
+    },
+    {
+      "word": "probleem",
+      "word_translated": "problem",
+      "sentence": "Hij heeft geen probleem.",
+      "sentence_translated": "He has no problem."
+    },
+    {
+      "word": "leuk",
+      "word_translated": "fun",
+      "sentence": "Het huis is leuk.",
+      "sentence_translated": "The house is fun."
+    },
+    {
+      "word": "lil",
+      "word_translated": "small",
+      "sentence": "Ze vindt het huis lil.",
+      "sentence_translated": "She finds the house small."
+    },
+    {
+      "word": "net",
+      "word_translated": "just",
+      "sentence": "Hij is net gekomen.",
+      "sentence_translated": "He just arrived."
+    },
+    {
+      "word": "altijd",
+      "word_translated": "always",
+      "sentence": "Ze is altijd gelukkig.",
+      "sentence_translated": "She is always happy."
+    },
+    {
+      "word": "haar",
+      "word_translated": "her",
+      "sentence": "Haar vriendinnetje is hier.",
+      "sentence_translated": "Her little girlfriend is here."
+    },
+    {
+      "word": "jou",
+      "word_translated": "you",
+      "sentence": "Wil je zwemmen?",
+      "sentence_translated": "Do you want to swim?"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 17,
+  "language": "nl",
+  "words": [
+    {
+      "word": "weggelaten",
+      "word_translated": "VERB: omitted",
+      "sentence": "Hij heeft het woord weggelaten.",
+      "sentence_translated": "He has omitted the word."
+    },
+    {
+      "word": "gezien",
+      "word_translated": "VERB: seen",
+      "sentence": "Ik heb hem gezien en hij heeft iets weggelaten.",
+      "sentence_translated": "I saw him and he omitted something."
+    },
+    {
+      "word": "series",
+      "word_translated": "NOUN: series",
+      "sentence": "Hij heeft de serie gezien, maar een episode is weggelaten.",
+      "sentence_translated": "He watched the series but an episode was omitted."
+    },
+    {
+      "word": "vakantie",
+      "word_translated": "NOUN: vacation",
+      "sentence": "Ik heb op vakantie veel series gezien en een aflevering is weggelaten.",
+      "sentence_translated": "I watched many series on vacation and an episode was omitted."
+    },
+    {
+      "word": "onafscheidelijk",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "duidelijk",
+      "word_translated": "ADJ: clear",
+      "sentence": "Het is duidelijk dat ze op vakantie onaafscheidelijk zijn.",
+      "sentence_translated": "It's clear that they are inseparable on vacation."
+    },
+    {
+      "word": "eerst",
+      "word_translated": "ADV: first",
+      "sentence": "Eerst is het duidelijk dat ze op vakantie onaafscheidelijk zijn.",
+      "sentence_translated": "First, it's clear that they are inseparable on vacation."
+    },
+    {
+      "word": "bláman",
+      "word_translated": "PRON: you all (informal)",
+      "sentence": "Eerst, bláman, is het duidelijk dat ze op vakantie onaafscheidelijk zijn.",
+      "sentence_translated": "First, you all, it's clear that they are inseparable on vacation."
+    },
+    {
+      "word": "elkaar",
+      "word_translated": "PRON: each other",
+      "sentence": "Bláman, zij zien elkaar op vakantie en zijn onaafscheidelijk.",
+      "sentence_translated": "You all, they see each other on vacation and are inseparable."
+    },
+    {
+      "word": "was",
+      "word_translated": "AUX: was",
+      "sentence": "Bláman, zij waren op vakantie en zagen elkaar duidelijk.",
+      "sentence_translated": "You all, they were on vacation and saw each other clearly."
+    }
+  ]
+}

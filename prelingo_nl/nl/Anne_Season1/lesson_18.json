@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 18,
+  "language": "nl",
+  "words": [
+    {
+      "word": "kijken",
+      "word_translated": "to look, to watch (VERB)",
+      "sentence": "Ik kijk naar de televisie.",
+      "sentence_translated": "I am watching TV."
+    },
+    {
+      "word": "zegt",
+      "word_translated": "says (VERB)",
+      "sentence": "Hij zegt dat het leuk is.",
+      "sentence_translated": "He says that it's fun."
+    },
+    {
+      "word": "naam",
+      "word_translated": "name (NOUN)",
+      "sentence": "Wat is je naam?",
+      "sentence_translated": "What is your name?"
+    },
+    {
+      "word": "blaman",
+      "word_translated": "a placeholder noun for practice (NOUN)",
+      "sentence": "De blaman is groot.",
+      "sentence_translated": "The blaman is big."
+    },
+    {
+      "word": "nederlands",
+      "word_translated": "Dutch (ADJ)",
+      "sentence": "Hij spreekt Nederlands.",
+      "sentence_translated": "He speaks Dutch."
+    },
+    {
+      "word": "interessant",
+      "word_translated": "interesting (ADJ)",
+      "sentence": "Het is interessant om te kijken.",
+      "sentence_translated": "It's interesting to watch."
+    },
+    {
+      "word": "me",
+      "word_translated": "me, myself (PRON)",
+      "sentence": "Ik vind het me leuk.",
+      "sentence_translated": "I find it fun for me."
+    },
+    {
+      "word": "waren",
+      "word_translated": "were (AUX)",
+      "sentence": "Ze waren samen op vakantie.",
+      "sentence_translated": "They were on vacation together."
+    },
+    {
+      "word": "moet",
+      "word_translated": "must, have to (AUX)",
+      "sentence": "Ik moet naar de winkel gaan.",
+      "sentence_translated": "I must go to the store."
+    },
+    {
+      "word": "eh",
+      "word_translated": "uh, eh (INTJ)",
+      "sentence": "Eh, wat zegt hij?",
+      "sentence_translated": "Uh, what does he say?"
+    }
+  ]
+}

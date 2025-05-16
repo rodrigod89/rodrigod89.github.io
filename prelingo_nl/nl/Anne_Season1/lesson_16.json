@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 16,
+  "language": "nl",
+  "words": [
+    {
+      "word": "bedoel",
+      "word_translated": "to mean",
+      "sentence": "Hij bedoelt dat.",
+      "sentence_translated": "He means that."
+    },
+    {
+      "word": "doen",
+      "word_translated": "to do",
+      "sentence": "Ik doe wat hij bedoelt.",
+      "sentence_translated": "I do what he means."
+    },
+    {
+      "word": "voorbeeld",
+      "word_translated": "example",
+      "sentence": "Dit is een voorbeeld van doen.",
+      "sentence_translated": "This is an example of doing."
+    },
+    {
+      "word": "boeken",
+      "word_translated": "books",
+      "sentence": "Ik lees boeken als voorbeeld.",
+      "sentence_translated": "I read books as examples."
+    },
+    {
+      "word": "klef",
+      "word_translated": "difficult",
+      "sentence": "Dit is een klef boek.",
+      "sentence_translated": "This is a difficult book."
+    },
+    {
+      "word": "natuurlijk",
+      "word_translated": "of course",
+      "sentence": "Natuurlijk lees ik boeken.",
+      "sentence_translated": "Of course, I read books."
+    },
+    {
+      "word": "allemaal",
+      "word_translated": "all of them",
+      "sentence": "Ik lees allemaal boeken.",
+      "sentence_translated": "I read all the books."
+    },
+    {
+      "word": "bot",
+      "word_translated": "boringly",
+      "sentence": "Hij doet het bot.",
+      "sentence_translated": "He does it boringly."
+    },
+    {
+      "word": "die",
+      "word_translated": "that/those",
+      "sentence": "Die boeken zijn klef.",
+      "sentence_translated": "Those books are difficult."
+    },
+    {
+      "word": "jouw",
+      "word_translated": "your",
+      "sentence": "Jouw boeken zijn interessant.",
+      "sentence_translated": "Your books are interesting."
+    }
+  ]
+}

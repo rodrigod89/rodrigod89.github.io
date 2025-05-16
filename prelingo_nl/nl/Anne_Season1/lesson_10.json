@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 10,
+  "language": "nl",
+  "words": [
+    {
+      "word": "zwemmen",
+      "word_translated": "to swim",
+      "sentence": "Hij kan zwemmen.",
+      "sentence_translated": "He can swim."
+    },
+    {
+      "word": "gefikst",
+      "word_translated": "fixed (verb, past participle)",
+      "sentence": "De lamp is gefikst.",
+      "sentence_translated": "The lamp is fixed."
+    },
+    {
+      "word": "huis",
+      "word_translated": "house",
+      "sentence": "Ik heb een huis.",
+      "sentence_translated": "I have a house."
+    },
+    {
+      "word": "spinvis",
+      "word_translated": "prawn",
+      "sentence": "Spinvis is lekker.",
+      "sentence_translated": "Prawn is tasty."
+    },
+    {
+      "word": "praktisch",
+      "word_translated": "practical",
+      "sentence": "Een praktisch huis is goed.",
+      "sentence_translated": "A practical house is good."
+    },
+    {
+      "word": "toevallig",
+      "word_translated": "coincidentally",
+      "sentence": "Toevallig heb ik spinvis gekocht.",
+      "sentence_translated": "Coincidentally, I bought prawns."
+    },
+    {
+      "word": "zo",
+      "word_translated": "so (adv)",
+      "sentence": "Hij zwemt zo snel.",
+      "sentence_translated": "He swims so fast."
+    },
+    {
+      "word": "weg",
+      "word_translated": "away (adv)",
+      "sentence": "De spinvis is weg.",
+      "sentence_translated": "The prawn is gone."
+    },
+    {
+      "word": "ze",
+      "word_translated": "they, them (pronoun)",
+      "sentence": "Ze zwemmen ook.",
+      "sentence_translated": "They swim too."
+    },
+    {
+      "word": "wat",
+      "word_translated": "what (pronoun)",
+      "sentence": "Wat is dat?",
+      "sentence_translated": "What is that?"
+    }
+  ]
+}

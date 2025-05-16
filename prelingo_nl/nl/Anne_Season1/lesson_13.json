@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 13,
+  "language": "nl",
+  "words": [
+    {
+      "word": "klopt",
+      "word_translated": "is correct",
+      "sentence": "Dat klopt.",
+      "sentence_translated": "That is correct."
+    },
+    {
+      "word": "gingen",
+      "word_translated": "went",
+      "sentence": "Ze gingen naar buiten.",
+      "sentence_translated": "They went outside."
+    },
+    {
+      "word": "broek",
+      "word_translated": "trousers",
+      "sentence": "Hij droeg een broek.",
+      "sentence_translated": "He wore trousers."
+    },
+    {
+      "word": "tijd",
+      "word_translated": "time",
+      "sentence": "Het is tijd om te gaan.",
+      "sentence_translated": "It's time to go."
+    },
+    {
+      "word": "grote",
+      "word_translated": "big, large",
+      "sentence": "Ze heeft een grote broek.",
+      "sentence_translated": "She has big trousers."
+    },
+    {
+      "word": "zeker",
+      "word_translated": "certainly, sure",
+      "sentence": "Dat is zeker waar.",
+      "sentence_translated": "That is certainly true."
+    },
+    {
+      "word": "eens",
+      "word_translated": "once, for a moment",
+      "sentence": "Ik wil eens naar buiten gaan.",
+      "sentence_translated": "I want to go outside once."
+    },
+    {
+      "word": "waarom",
+      "word_translated": "why",
+      "sentence": "Waarom gingen ze?",
+      "sentence_translated": "Why did they go?"
+    },
+    {
+      "word": "niks",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "deze",
+      "word_translated": "this, these",
+      "sentence": "Dit is deze broek.",
+      "sentence_translated": "This is these trousers."
+    }
+  ]
+}

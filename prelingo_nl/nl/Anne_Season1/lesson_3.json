@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 3,
+  "language": "nl",
+  "words": [
+    {
+      "word": "zien",
+      "word_translated": "to see",
+      "sentence": "Ik zie de zon.",
+      "sentence_translated": "I see the sun."
+    },
+    {
+      "word": "zeggen",
+      "word_translated": "to say",
+      "sentence": "Hij zegt dat hij het ziet.",
+      "sentence_translated": "He says that he sees it."
+    },
+    {
+      "word": "achtergrond",
+      "word_translated": "background",
+      "sentence": "De achtergrond is groen.",
+      "sentence_translated": "The background is green."
+    },
+    {
+      "word": "adaptaties",
+      "word_translated": "adaptations",
+      "sentence": "Ik zie adaptaties van films.",
+      "sentence_translated": "I see adaptations of movies."
+    },
+    {
+      "word": "goed",
+      "word_translated": "good",
+      "sentence": "De adaptaties zijn goed.",
+      "sentence_translated": "The adaptations are good."
+    },
+    {
+      "word": "fijn",
+      "word_translated": "nice, pleasant",
+      "sentence": "Het is fijn om te zien dat ze goed zijn.",
+      "sentence_translated": "It's nice to see that they are good."
+    },
+    {
+      "word": "hoe",
+      "word_translated": "how",
+      "sentence": "Hoe zeg je 'achtergrond'?",
+      "sentence_translated": "How do you say 'background'?"
+    },
+    {
+      "word": "even",
+      "word_translated": "for a moment, just",
+      "sentence": "Even kijken hoe het is.",
+      "sentence_translated": "Just look how it is."
+    },
+    {
+      "word": "van",
+      "word_translated": "of, from",
+      "sentence": "De adaptaties van de films zijn goed.",
+      "sentence_translated": "The adaptations of the movies are good."
+    },
+    {
+      "word": "tot",
+      "word_translated": "until",
+      "sentence": "Ik zie het tot ik ga slapen.",
+      "sentence_translated": "I will see it until I go to sleep."
+    }
+  ]
+}

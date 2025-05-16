@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0106",
+  "lesson": 93,
+  "language": "nl",
+  "words": [
+    {
+      "word": "bluetooth",
+      "word_translated": "Bluetooth (NOUN)",
+      "sentence": "Ik heb een bluetooth.",
+      "sentence_translated": "I have a Bluetooth."
+    },
+    {
+      "word": "vergaderingen",
+      "word_translated": "Meetings (NOUN)",
+      "sentence": "Blauwtooth is nuttig voor vergaderingen.",
+      "sentence_translated": "Bluetooth is useful for meetings."
+    },
+    {
+      "word": "veranderd",
+      "word_translated": "Changed (VERB)",
+      "sentence": "De vergaderingen zijn veranderd.",
+      "sentence_translated": "The meetings have changed."
+    },
+    {
+      "word": "hoezo",
+      "word_translated": "(Interjection expressing surprise or disbelief, similar to 'how come' in English) (VERB)",
+      "sentence": "Hoezo zijn de vergaderingen veranderd?",
+      "sentence_translated": "How come the meetings have changed?"
+    },
+    {
+      "word": "trots",
+      "word_translated": "Proud (ADJ)",
+      "sentence": "Ik ben trots op mijn bluetooth.",
+      "sentence_translated": "I am proud of my Bluetooth."
+    },
+    {
+      "word": "perfect",
+      "word_translated": "Perfect (ADJ)",
+      "sentence": "Mijn bluetooth is perfect voor vergaderingen.",
+      "sentence_translated": "My Bluetooth is perfect for meetings."
+    },
+    {
+      "word": "buurten",
+      "word_translated": "Neighborhoods (NOUN)",
+      "sentence": "In buurten zijn vergaderingen populair.",
+      "sentence_translated": "Meetings are popular in neighborhoods."
+    },
+    {
+      "word": "cijfer",
+      "word_translated": "Grade (NOUN)",
+      "sentence": "Mijn cijfer verbetert als ik studeer.",
+      "sentence_translated": "My grade improves when I study."
+    },
+    {
+      "word": "studeert",
+      "word_translated": "Studies (VERB)",
+      "sentence": "Zij studeert voor haar cijfers.",
+      "sentence_translated": "She studies for her grades."
+    },
+    {
+      "word": "hoef",
+      "word_translated": "(Contraction of 'heeft' and 'niet', meaning 'does not have to') (VERB)",
+      "sentence": "Ik hoef niet te studeert.",
+      "sentence_translated": "I do not have to study."
+    }
+  ]
+}

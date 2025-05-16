@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 37,
+  "language": "nl",
+  "words": [
+    {
+      "word": "eet",
+      "word_translated": "eat (verb)",
+      "sentence": "Hij eet.",
+      "sentence_translated": "He eats."
+    },
+    {
+      "word": "weten",
+      "word_translated": "know (verb)",
+      "sentence": "Ik weet dat hij eet.",
+      "sentence_translated": "I know that he eats."
+    },
+    {
+      "word": "behoefte",
+      "word_translated": "need (noun)",
+      "sentence": "Hij heeft een behoefte om te eten.",
+      "sentence_translated": "He has a need to eat."
+    },
+    {
+      "word": "uur",
+      "word_translated": "hour (noun)",
+      "sentence": "Het is tijd voor het uur van de maaltijd.",
+      "sentence_translated": "It's time for the meal hour."
+    },
+    {
+      "word": "half",
+      "word_translated": "half (adjective)",
+      "sentence": "Hij eet om half vier.",
+      "sentence_translated": "He eats at half past three."
+    },
+    {
+      "word": "losser",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "alsjeblieft",
+      "word_translated": "please (interjection)",
+      "sentence": "Alsjeblieft, eet je brood.",
+      "sentence_translated": "Please, eat your bread."
+    },
+    {
+      "word": "hoor",
+      "word_translated": "hear (interjection)",
+      "sentence": "Hoor, hij weet dat hij moet eten.",
+      "sentence_translated": "Listen, he knows that he needs to eat."
+    },
+    {
+      "word": "enig",
+      "word_translated": "any (determiner)",
+      "sentence": "Heeft hij enige behoefte om te eten?",
+      "sentence_translated": "Does he have any need to eat?"
+    },
+    {
+      "word": "h",
+      "word_translated": "the (determiner)",
+      "sentence": "Hij weet dat het uur van de maaltijd is.",
+      "sentence_translated": "He knows that the meal hour is."
+    }
+  ]
+}

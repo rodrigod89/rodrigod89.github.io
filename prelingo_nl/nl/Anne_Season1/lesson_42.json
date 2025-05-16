@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 42,
+  "language": "nl",
+  "words": [
+    {
+      "word": "vingeren",
+      "word_translated": "to finger (as in typing or playing an instrument)",
+      "sentence": "Ik vingeren op het piano.",
+      "sentence_translated": "I am fingering on the piano."
+    },
+    {
+      "word": "denken",
+      "word_translated": "to think",
+      "sentence": "Hij denkt over zijn werk.",
+      "sentence_translated": "He is thinking about his work."
+    },
+    {
+      "word": "tussentijd",
+      "word_translated": "intermission",
+      "sentence": "Er is een tussentijd tijdens het concert.",
+      "sentence_translated": "There is an intermission during the concert."
+    },
+    {
+      "word": "markt",
+      "word_translated": "market",
+      "sentence": "We gaan naar de markt.",
+      "sentence_translated": "We are going to the market."
+    },
+    {
+      "word": "enorme",
+      "word_translated": "enormous",
+      "sentence": "De markt heeft een enorme hoeveelheid fruit.",
+      "sentence_translated": "The market has an enormous amount of fruit."
+    },
+    {
+      "word": "juist",
+      "word_translated": "right, correct",
+      "sentence": "Dat is juist wat ik zei.",
+      "sentence_translated": "That's exactly what I said."
+    },
+    {
+      "word": "sluit",
+      "word_translated": "closes (as in a door or shop)",
+      "sentence": "De markt sluit om vijf uur.",
+      "sentence_translated": "The market closes at five o'clock."
+    },
+    {
+      "word": "leeft",
+      "word_translated": "lives",
+      "sentence": "Hij leeft in een grote stad.",
+      "sentence_translated": "He lives in a big city."
+    },
+    {
+      "word": "rebound",
+      "word_translated": "rebound (as in sports or recovery)",
+      "sentence": "Na de tussentijd is er een rebound in activiteit.",
+      "sentence_translated": "After the intermission, there's a rebound in activity."
+    },
+    {
+      "word": "vrouw",
+      "word_translated": "woman",
+      "sentence": "Een vrouw koopt fruit op de markt.",
+      "sentence_translated": "A woman is buying fruit at the market."
+    }
+  ]
+}

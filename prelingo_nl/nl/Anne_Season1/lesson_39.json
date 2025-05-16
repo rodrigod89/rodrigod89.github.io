@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 39,
+  "language": "nl",
+  "words": [
+    {
+      "word": "uithouden",
+      "word_translated": "to endure or hold out",
+      "sentence": "Ik kan het niet uithouden.",
+      "sentence_translated": "I can't endure it."
+    },
+    {
+      "word": "geinig",
+      "word_translated": "funny, amusing",
+      "sentence": "Het is geinig om te lachen.",
+      "sentence_translated": "It's funny to laugh."
+    },
+    {
+      "word": "concurrentie",
+      "word_translated": "competition",
+      "sentence": "Concurrentie maakt het moeilijk.",
+      "sentence_translated": "Competition makes it difficult."
+    },
+    {
+      "word": "mark",
+      "word_translated": "market",
+      "sentence": "Op de mark is veel concurrentie.",
+      "sentence_translated": "There's a lot of competition at the market."
+    },
+    {
+      "word": "saai",
+      "word_translated": "boring",
+      "sentence": "Het college was saai en moeilijk.",
+      "sentence_translated": "The lecture was boring and difficult."
+    },
+    {
+      "word": "veilig",
+      "word_translated": "safe",
+      "sentence": "De mark is veilig voor kinderen.",
+      "sentence_translated": "The market is safe for children."
+    },
+    {
+      "word": "valt",
+      "word_translated": "falls, drops",
+      "sentence": "Het boek valt op de grond.",
+      "sentence_translated": "The book falls to the ground."
+    },
+    {
+      "word": "werkt",
+      "word_translated": "works",
+      "sentence": "Hij werkt hard om veilig te zijn.",
+      "sentence_translated": "He works hard to be safe."
+    },
+    {
+      "word": "kutvraag",
+      "word_translated": "trivia question, stupid question",
+      "sentence": "Een kutvraag kan saai zijn.",
+      "sentence_translated": "A trivia question can be boring."
+    },
+    {
+      "word": "gesprekken",
+      "word_translated": "conversations",
+      "sentence": "We hebben interessante gesprekken op de mark.",
+      "sentence_translated": "We have interesting conversations at the market."
+    }
+  ]
+}

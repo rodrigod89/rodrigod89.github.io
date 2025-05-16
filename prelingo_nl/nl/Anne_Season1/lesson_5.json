@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 5,
+  "language": "nl",
+  "words": [
+    {
+      "word": "vergelijken",
+      "word_translated": "to compare",
+      "sentence": "Ik vergelijk twee dingen.",
+      "sentence_translated": "I compare two things."
+    },
+    {
+      "word": "vind",
+      "word_translated": "find (as in to like)",
+      "sentence": "Hij vindt het leuk.",
+      "sentence_translated": "He finds it fun."
+    },
+    {
+      "word": "plezier",
+      "word_translated": "fun",
+      "sentence": "Ik heb plezier met films.",
+      "sentence_translated": "I have fun with movies."
+    },
+    {
+      "word": "slaap",
+      "word_translated": "sleep",
+      "sentence": "Slaap is belangrijk voor mij.",
+      "sentence_translated": "Sleep is important for me."
+    },
+    {
+      "word": "heel",
+      "word_translated": "whole, complete",
+      "sentence": "Ik heb heel veel plezier.",
+      "sentence_translated": "I have a lot of fun."
+    },
+    {
+      "word": "laat",
+      "word_translated": "late",
+      "sentence": "De laatste film was goed.",
+      "sentence_translated": "The last movie was good."
+    },
+    {
+      "word": "nu",
+      "word_translated": "now",
+      "sentence": "Nu vind ik het leuk.",
+      "sentence_translated": "Now I find it fun."
+    },
+    {
+      "word": "misschien",
+      "word_translated": "maybe",
+      "sentence": "Misschien ga ik naar bed nu.",
+      "sentence_translated": "Maybe I will go to bed now."
+    },
+    {
+      "word": "door",
+      "word_translated": "through, by (preposition)",
+      "sentence": "Ik vind plezier door films te kijken.",
+      "sentence_translated": "I find fun through watching movies."
+    },
+    {
+      "word": "aan",
+      "word_translated": "on, at (preposition)",
+      "sentence": "Hij heeft slaap aan het nemen.",
+      "sentence_translated": "He is in the process of taking sleep."
+    }
+  ]
+}

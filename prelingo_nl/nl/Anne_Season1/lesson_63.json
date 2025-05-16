@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 63,
+  "language": "nl",
+  "words": [
+    {
+      "word": "baas",
+      "word_translated": "boss",
+      "sentence": "De baas is hier.",
+      "sentence_translated": "The boss is here."
+    },
+    {
+      "word": "potgrond",
+      "word_translated": "potting soil",
+      "sentence": "Ik heb potgrond nodig voor de planten.",
+      "sentence_translated": "I need potting soil for the plants."
+    },
+    {
+      "word": "begrijp",
+      "word_translated": "understand",
+      "sentence": "Ik begrijp dat je het niet weet.",
+      "sentence_translated": "I understand that you don't know it."
+    },
+    {
+      "word": "zorgen",
+      "word_translated": "worry, take care of",
+      "sentence": "Hij zorgt voor de planten.",
+      "sentence_translated": "He takes care of the plants."
+    },
+    {
+      "word": "mogelijk",
+      "word_translated": "possible",
+      "sentence": "Het is mogelijk dat het regent.",
+      "sentence_translated": "It's possible that it will rain."
+    },
+    {
+      "word": "awkward",
+      "word_translated": "awkward",
+      "sentence": "Dit is een awkward situatie.",
+      "sentence_translated": "This is an awkward situation."
+    },
+    {
+      "word": "daarin",
+      "word_translated": "in that, in it",
+      "sentence": "Ik begrijp het niet daarin.",
+      "sentence_translated": "I don't understand it in there."
+    },
+    {
+      "word": "stiekem",
+      "word_translated": "secretly",
+      "sentence": "Hij doet het stiekem.",
+      "sentence_translated": "He does it secretly."
+    },
+    {
+      "word": "iedereen",
+      "word_translated": "everyone",
+      "sentence": "Iedereen begrijpt dit.",
+      "sentence_translated": "Everyone understands this."
+    },
+    {
+      "word": "zoiets",
+      "word_translated": "something like that",
+      "sentence": "Ik heb zoiets nodig voor het werk.",
+      "sentence_translated": "I need something like that for the work."
+    }
+  ]
+}

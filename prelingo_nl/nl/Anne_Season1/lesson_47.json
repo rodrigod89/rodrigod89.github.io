@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0103",
+  "lesson": 47,
+  "language": "nl",
+  "words": [
+    {
+      "word": "sofie",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "nummer",
+      "word_translated": "number",
+      "sentence": "Ik heb een nummer.",
+      "sentence_translated": "I have a number."
+    },
+    {
+      "word": "keek",
+      "word_translated": "looked (past tense of 'kijken')",
+      "sentence": "Hij keek naar het nummer.",
+      "sentence_translated": "He looked at the number."
+    },
+    {
+      "word": "wilde",
+      "word_translated": "wanted (past tense of 'willen')",
+      "sentence": "Ze wilde een nummer.",
+      "sentence_translated": "She wanted a number."
+    },
+    {
+      "word": "meerdijk",
+      "word_translated": "broad, wide",
+      "sentence": "Het meerdijk huis is groot.",
+      "sentence_translated": "The broad house is big."
+    },
+    {
+      "word": "vals",
+      "word_translated": "false",
+      "sentence": "Dat nummer is vals.",
+      "sentence_translated": "That number is false."
+    },
+    {
+      "word": "erbij",
+      "word_translated": "with it, along with it (adv)",
+      "sentence": "Ik wil erbij helpen.",
+      "sentence_translated": "I want to help with it."
+    },
+    {
+      "word": "ermee",
+      "word_translated": "with it (adv)",
+      "sentence": "Ze keek ermee door de ramen.",
+      "sentence_translated": "She looked through the windows with it."
+    },
+    {
+      "word": "toen",
+      "word_translated": "then (subordinating conjunction)",
+      "sentence": "Toen hij keek, zag hij het nummer.",
+      "sentence_translated": "Then he looked and saw the number."
+    },
+    {
+      "word": "achter",
+      "word_translated": "behind (preposition)",
+      "sentence": "Hij keek achter de muur.",
+      "sentence_translated": "He looked behind the wall."
+    }
+  ]
+}

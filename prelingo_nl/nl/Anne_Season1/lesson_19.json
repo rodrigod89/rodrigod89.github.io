@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 19,
+  "language": "nl",
+  "words": [
+    {
+      "word": "lees",
+      "word_translated": "read (VERB)",
+      "sentence": "Ik lees een boek.",
+      "sentence_translated": "I am reading a book."
+    },
+    {
+      "word": "ken",
+      "word_translated": "know (VERB)",
+      "sentence": "Jij ken het verhaal?",
+      "sentence_translated": "Do you know the story?"
+    },
+    {
+      "word": "man",
+      "word_translated": "man (NOUN)",
+      "sentence": "De man leest.",
+      "sentence_translated": "The man is reading."
+    },
+    {
+      "word": "mhm",
+      "word_translated": "expression of understanding or agreement (NOUN)",
+      "sentence": "Mhm, ik ken het verhaal.",
+      "sentence_translated": "Mhm, I know the story."
+    },
+    {
+      "word": "precies",
+      "word_translated": "exactly (ADJ)",
+      "sentence": "Precies, de man leest.",
+      "sentence_translated": "Exactly, the man is reading."
+    },
+    {
+      "word": "hetzelfde",
+      "word_translated": "the same (ADJ)",
+      "sentence": "Hij zegt hetzelfde verhaal.",
+      "sentence_translated": "He says the same story."
+    },
+    {
+      "word": "bent",
+      "word_translated": "are (AUX, 2nd person singular present of 'zijn')",
+      "sentence": "Jij bent een man die leest.",
+      "sentence_translated": "You are a man who reads."
+    },
+    {
+      "word": "zal",
+      "word_translated": "will (AUX)",
+      "sentence": "Hij zal hetzelfde verhaal lezen.",
+      "sentence_translated": "He will read the same story."
+    },
+    {
+      "word": "hé",
+      "word_translated": "hey (INTJ)",
+      "sentence": "Hé, jij bent een man die leest!",
+      "sentence_translated": "Hey, you are a man who reads!"
+    },
+    {
+      "word": "o",
+      "word_translated": "oh (INTJ)",
+      "sentence": "O, hij zal hetzelfde verhaal precies kennen.",
+      "sentence_translated": "Oh, he will know the same story exactly."
+    }
+  ]
+}

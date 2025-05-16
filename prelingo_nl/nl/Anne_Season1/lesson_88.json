@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0106",
+  "lesson": 88,
+  "language": "nl",
+  "words": [
+    {
+      "word": "ouders",
+      "word_translated": "parents",
+      "sentence": "Ik heb ouders.",
+      "sentence_translated": "I have parents."
+    },
+    {
+      "word": "baan",
+      "word_translated": "job",
+      "sentence": "Mijn ouders hebben een baan.",
+      "sentence_translated": "My parents have a job."
+    },
+    {
+      "word": "zoeken",
+      "word_translated": "to look for/to search",
+      "sentence": "Ik zoek een baan.",
+      "sentence_translated": "I am looking for a job."
+    },
+    {
+      "word": "opruimen",
+      "word_translated": "to tidy up/clean up",
+      "sentence": "Mijn ouders ruimen op.",
+      "sentence_translated": "My parents are tidying up."
+    },
+    {
+      "word": "volwassen",
+      "word_translated": "adult/adults",
+      "sentence": "Ik wil volwassen zijn.",
+      "sentence_translated": "I want to be an adult."
+    },
+    {
+      "word": "relatieloze",
+      "word_translated": "single (without a relationship)",
+      "sentence": "Hij is relatieloos.",
+      "sentence_translated": "He is single."
+    },
+    {
+      "word": "bijna",
+      "word_translated": "almost",
+      "sentence": "Ik ben bijna volwassen.",
+      "sentence_translated": "I am almost an adult."
+    },
+    {
+      "word": "afstuderen",
+      "word_translated": "to graduate/to finish studies",
+      "sentence": "Hij studeert af.",
+      "sentence_translated": "He is graduating."
+    },
+    {
+      "word": "af",
+      "word_translated": "off/away (as in finished)",
+      "sentence": "Het werk is af.",
+      "sentence_translated": "The work is done."
+    },
+    {
+      "word": "vanaf",
+      "word_translated": "from (a point in time or space)",
+      "sentence": "Ik ga vanaf morgen werken.",
+      "sentence_translated": "I will start working from tomorrow."
+    }
+  ]
+}

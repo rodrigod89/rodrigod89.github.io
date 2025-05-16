@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 7,
+  "language": "nl",
+  "words": [
+    {
+      "word": "gedaan",
+      "word_translated": "Done (verb)",
+      "sentence": "Hij heeft het al gedaan.",
+      "sentence_translated": "He has already done it."
+    },
+    {
+      "word": "verhuisd",
+      "word_translated": "Moved (verb)",
+      "sentence": "Ze hebben verhuisd en zijn moe.",
+      "sentence_translated": "They have moved and are tired."
+    },
+    {
+      "word": "schuurpapier",
+      "word_translated": "Sandpaper (noun)",
+      "sentence": "Ik heb schuurpapier nodig voor de muur.",
+      "sentence_translated": "I need sandpaper for the wall."
+    },
+    {
+      "word": "buurt",
+      "word_translated": "Neighborhood (noun)",
+      "sentence": "De buurt is heel vriendelijk.",
+      "sentence_translated": "The neighborhood is very friendly."
+    },
+    {
+      "word": "gauw",
+      "word_translated": "Quickly (adjective)",
+      "sentence": "Ga gauw naar de boodschappen.",
+      "sentence_translated": "Go quickly to the groceries."
+    },
+    {
+      "word": "eerste",
+      "word_translated": "First (adjective)",
+      "sentence": "De eerste stap is belangrijk.",
+      "sentence_translated": "The first step is important."
+    },
+    {
+      "word": "al",
+      "word_translated": "Already (adverb)",
+      "sentence": "Hij heeft het al gedaan en verhuisd.",
+      "sentence_translated": "He has already done it and moved."
+    },
+    {
+      "word": "toch",
+      "word_translated": "Still/Anyway (adverb)",
+      "sentence": "Ze zijn moe, maar toch blijven ze werken.",
+      "sentence_translated": "They are tired, but they still keep working."
+    },
+    {
+      "word": "uit",
+      "word_translated": "Out (preposition)",
+      "sentence": "Ga uit en maak de buurt bekend.",
+      "sentence_translated": "Go out and get to know the neighborhood."
+    },
+    {
+      "word": "zonder",
+      "word_translated": "Without (preposition)",
+      "sentence": "Ik kan zonder schuurpapier niet beginnen.",
+      "sentence_translated": "I can't start without sandpaper."
+    }
+  ]
+}

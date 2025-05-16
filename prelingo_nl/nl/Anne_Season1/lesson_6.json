@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 6,
+  "language": "nl",
+  "words": [
+    {
+      "word": "vond",
+      "word_translated": "Found (past tense of vinden)",
+      "sentence": "Hij vond een plezier.",
+      "sentence_translated": "He found some pleasure."
+    },
+    {
+      "word": "beginnen",
+      "word_translated": "To begin/start",
+      "sentence": "Ik begin met plezier.",
+      "sentence_translated": "I start with pleasure."
+    },
+    {
+      "word": "doris",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "boodschappen",
+      "word_translated": "Groceries (noun)",
+      "sentence": "Ze hebben boodschappen nodig.",
+      "sentence_translated": "They need groceries."
+    },
+    {
+      "word": "moe",
+      "word_translated": "Tired (adjective)",
+      "sentence": "Ik ben moe en wil slaap.",
+      "sentence_translated": "I am tired and want sleep."
+    },
+    {
+      "word": "snel",
+      "word_translated": "Fast/quickly (adjective)",
+      "sentence": "Ga snel naar boodschappen.",
+      "sentence_translated": "Go quickly to the groceries."
+    },
+    {
+      "word": "weer",
+      "word_translated": "Again (adv.)",
+      "sentence": "Hij gaat weer naar boodschappen.",
+      "sentence_translated": "He is going again to the groceries."
+    },
+    {
+      "word": "er",
+      "word_translated": "There (adv.)",
+      "sentence": "Er zijn veel boodschappen.",
+      "sentence_translated": "There are many groceries."
+    },
+    {
+      "word": "heen",
+      "word_translated": "To there (adposition)",
+      "sentence": "Ik ga er heen voor boodschappen.",
+      "sentence_translated": "I am going there for groceries."
+    },
+    {
+      "word": "tegen",
+      "word_translated": "Against/towards (adposition)",
+      "sentence": "Hij gaat tegen de tijd aan beginnen.",
+      "sentence_translated": "He is starting against the time."
+    }
+  ]
+}

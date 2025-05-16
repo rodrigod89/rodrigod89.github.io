@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0105",
+  "lesson": 80,
+  "language": "nl",
+  "words": [
+    {
+      "word": "dagen",
+      "word_translated": "days",
+      "sentence": "Ik heb veel dagen.",
+      "sentence_translated": "I have many days."
+    },
+    {
+      "word": "studiestress",
+      "word_translated": "study stress",
+      "sentence": "Ik heb studiestress en veel dagen.",
+      "sentence_translated": "I have study stress and many days."
+    },
+    {
+      "word": "vergeten",
+      "word_translated": "forget",
+      "sentence": "Ik vergeten het boek.",
+      "sentence_translated": "I forget the book."
+    },
+    {
+      "word": "luisteren",
+      "word_translated": "listen",
+      "sentence": "Ik luisteren naar de radio en vergeten niets.",
+      "sentence_translated": "I listen to the radio and forget nothing."
+    },
+    {
+      "word": "interessantste",
+      "word_translated": "most interesting",
+      "sentence": "De interessantste boeken zijn leuk.",
+      "sentence_translated": "The most interesting books are fun."
+    },
+    {
+      "word": "bewust",
+      "word_translated": "consciously",
+      "sentence": "Ik luisteren bewust naar de radio.",
+      "sentence_translated": "I listen to the radio consciously."
+    },
+    {
+      "word": "onder",
+      "word_translated": "under",
+      "sentence": "Het boek is onder de kast.",
+      "sentence_translated": "The book is under the cupboard."
+    },
+    {
+      "word": "omdat",
+      "word_translated": "because",
+      "sentence": "Ik heb studiestress omdat ik vergeten ben.",
+      "sentence_translated": "I have study stress because I forgot."
+    },
+    {
+      "word": "broer",
+      "word_translated": "brother",
+      "sentence": "Mijn broer heeft ook studiestress.",
+      "sentence_translated": "My brother also has study stress."
+    },
+    {
+      "word": "touch",
+      "word_translated": "touch",
+      "sentence": "Ik wil de touch niet vergeten.",
+      "sentence_translated": "I want to not forget the touch."
+    }
+  ]
+}

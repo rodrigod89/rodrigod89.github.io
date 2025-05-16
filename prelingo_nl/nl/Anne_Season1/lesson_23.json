@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0101",
+  "lesson": 23,
+  "language": "nl",
+  "words": [
+    {
+      "word": "ontkend",
+      "word_translated": "denied (VERB)",
+      "sentence": "Hij heeft het ontkend.",
+      "sentence_translated": "He denied it."
+    },
+    {
+      "word": "liefhad",
+      "word_translated": "loved (VERB)",
+      "sentence": "Zij heeft hem liefgehad.",
+      "sentence_translated": "She loved him."
+    },
+    {
+      "word": "idee",
+      "word_translated": "idea (NOUN)",
+      "sentence": "Dat is een goede idee.",
+      "sentence_translated": "That's a good idea."
+    },
+    {
+      "word": "gebied",
+      "word_translated": "area/domain (NOUN)",
+      "sentence": "Het gebied is groot.",
+      "sentence_translated": "The area is large."
+    },
+    {
+      "word": "grijs",
+      "word_translated": "gray (ADJ)",
+      "sentence": "De kat is grijs.",
+      "sentence_translated": "The cat is gray."
+    },
+    {
+      "word": "verschillend",
+      "word_translated": "different (ADJ)",
+      "sentence": "Ze zijn verschillend van kleur.",
+      "sentence_translated": "They are different in color."
+    },
+    {
+      "word": "zoals",
+      "word_translated": "",
+      "sentence": "",
+      "sentence_translated": ""
+    },
+    {
+      "word": "of",
+      "word_translated": "or (CCONJ)",
+      "sentence": "Wil je thee of koffie?",
+      "sentence_translated": "Do you want tea or coffee?"
+    },
+    {
+      "word": "want",
+      "word_translated": "because (CCONJ)",
+      "sentence": "Ik ga naar buiten, want het is mooi.",
+      "sentence_translated": "I'm going outside because it's nice."
+    },
+    {
+      "word": "geen",
+      "word_translated": "no/none (DET)",
+      "sentence": "Hij heeft geen tijd.",
+      "sentence_translated": "He has no time."
+    }
+  ]
+}

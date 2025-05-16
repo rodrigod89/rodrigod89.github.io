@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 33,
+  "language": "nl",
+  "words": [
+    {
+      "word": "stop",
+      "word_translated": "Stop (verb) - to cease or halt an action",
+      "sentence": "Ik stop.",
+      "sentence_translated": "I stop."
+    },
+    {
+      "word": "dank",
+      "word_translated": "Dank (verb) - to thank someone",
+      "sentence": "Ik dank je.",
+      "sentence_translated": "I thank you."
+    },
+    {
+      "word": "liefdesverdriet",
+      "word_translated": "Liefdesverdriet (noun) - heartbreak or romantic sorrow",
+      "sentence": "Hij voelde liefdesverdriet.",
+      "sentence_translated": "He felt heartbroken."
+    },
+    {
+      "word": "pilletje",
+      "word_translated": "Pilletje (diminutive of pill) - a small pill",
+      "sentence": "Neem een pilletje.",
+      "sentence_translated": "Take a little pill."
+    },
+    {
+      "word": "gek",
+      "word_translated": "Gek (adjective) - crazy or silly",
+      "sentence": "Hij is gek.",
+      "sentence_translated": "He is crazy."
+    },
+    {
+      "word": "dubbel",
+      "word_translated": "Dubbel (adjective) - double",
+      "sentence": "Het is een dubbel huis.",
+      "sentence_translated": "It's a duplex house."
+    },
+    {
+      "word": "weleens",
+      "word_translated": "Weleens (adverb) - sometimes",
+      "sentence": "Ik ga weleens wandelen.",
+      "sentence_translated": "I go walking sometimes."
+    },
+    {
+      "word": "ooit",
+      "word_translated": "Ooit (adverb) - ever",
+      "sentence": "Heb je ooit gelezen?",
+      "sentence_translated": "Have you ever read?"
+    },
+    {
+      "word": "doorheen",
+      "word_translated": "Doorheen (preposition) - through",
+      "sentence": "Ga doorheen het bos.",
+      "sentence_translated": "Go through the forest."
+    },
+    {
+      "word": "word",
+      "word_translated": "Word (auxiliary verb) - to become",
+      "sentence": "Hij wordt gelukkig.",
+      "sentence_translated": "He becomes happy."
+    }
+  ]
+}

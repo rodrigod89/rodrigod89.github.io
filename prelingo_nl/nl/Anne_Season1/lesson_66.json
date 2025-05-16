@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 66,
+  "language": "nl",
+  "words": [
+    {
+      "word": "referentiebrief",
+      "word_translated": "Reference letter",
+      "sentence": "Ik heb een referentiebrief nodig.",
+      "sentence_translated": "I need a reference letter."
+    },
+    {
+      "word": "uitgeverij",
+      "word_translated": "Publishing house",
+      "sentence": "De uitgeverij vraagt om een referentiebrief.",
+      "sentence_translated": "The publishing house asks for a reference letter."
+    },
+    {
+      "word": "prijzen",
+      "word_translated": "To price (verb)",
+      "sentence": "Ze prijzen boeken in de uitgeverij.",
+      "sentence_translated": "They price books at the publishing house."
+    },
+    {
+      "word": "opkijken",
+      "word_translated": "To look forward to (verb)",
+      "sentence": "Ik opkijk naar nieuwe prijzen.",
+      "sentence_translated": "I look forward to new prices."
+    },
+    {
+      "word": "hoge",
+      "word_translated": "High (adjective)",
+      "sentence": "De uitgeverij heeft hoge prijzen.",
+      "sentence_translated": "The publishing house has high prices."
+    },
+    {
+      "word": "aantrekkelijk",
+      "word_translated": "Attractive (adjective)",
+      "sentence": "Hoge prijzen zijn niet altijd aantrekkelijk.",
+      "sentence_translated": "High prices are not always attractive."
+    },
+    {
+      "word": "ergens",
+      "word_translated": "Somewhere (adv)",
+      "sentence": "Ik zoek een uitgeverij ergens in de stad.",
+      "sentence_translated": "I am looking for a publishing house somewhere in the city."
+    },
+    {
+      "word": "meteen",
+      "word_translated": "Immediately (adv)",
+      "sentence": "Ze prijzen meteen na het uitgeven.",
+      "sentence_translated": "They price immediately after publication."
+    },
+    {
+      "word": "ieder",
+      "word_translated": "Each/everyone (determiner)",
+      "sentence": "Ieder wil een aantrekkelijke prijs.",
+      "sentence_translated": "Everyone wants an attractive price."
+    },
+    {
+      "word": "brief",
+      "word_translated": "Letter (noun)",
+      "sentence": "Een brief kan een referentiebrief zijn.",
+      "sentence_translated": "A letter can be a reference letter."
+    }
+  ]
+}

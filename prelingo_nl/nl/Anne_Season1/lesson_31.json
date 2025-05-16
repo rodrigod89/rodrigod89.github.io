@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 31,
+  "language": "nl",
+  "words": [
+    {
+      "word": "zeg",
+      "word_translated": "say (verb)",
+      "sentence": "Hij zegt ja.",
+      "sentence_translated": "He says yes."
+    },
+    {
+      "word": "zit",
+      "word_translated": "sit (verb)",
+      "sentence": "Ze zit daar.",
+      "sentence_translated": "She sits there."
+    },
+    {
+      "word": "leven",
+      "word_translated": "life (noun)",
+      "sentence": "Leven is mooi.",
+      "sentence_translated": "Life is beautiful."
+    },
+    {
+      "word": "mannen",
+      "word_translated": "men (plural noun)",
+      "sentence": "Mannen zeggen dat.",
+      "sentence_translated": "Men say that."
+    },
+    {
+      "word": "vol",
+      "word_translated": "full (adjective)",
+      "sentence": "De kamer is vol.",
+      "sentence_translated": "The room is full."
+    },
+    {
+      "word": "laatst",
+      "word_translated": "last (adjective)",
+      "sentence": "Dat was de laatste keer.",
+      "sentence_translated": "That was the last time."
+    },
+    {
+      "word": "trouwens",
+      "word_translated": "by the way (adv)",
+      "sentence": "Truwens, ik zeg ja.",
+      "sentence_translated": "By the way, I say yes."
+    },
+    {
+      "word": "hoelang",
+      "word_translated": "how long (adv)",
+      "sentence": "Hoe lang blijf je?",
+      "sentence_translated": "How long will you stay?"
+    },
+    {
+      "word": "binnen",
+      "word_translated": "inside (preposition)",
+      "sentence": "Zit binnen.",
+      "sentence_translated": "Sit inside."
+    },
+    {
+      "word": "mee",
+      "word_translated": "with (preposition)",
+      "sentence": "Ga mee naar binnen.",
+      "sentence_translated": "Come in with me."
+    }
+  ]
+}

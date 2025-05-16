@@ -1,0 +1,38 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0104",
+  "lesson": 76,
+  "language": "nl",
+  "words": [
+    {
+      "word": "welnee",
+      "word_translated": "welnee (ADJ) - not really, hardly",
+      "sentence": "Hij is welnee getalenteerd.",
+      "sentence_translated": "He is hardly talented."
+    },
+    {
+      "word": "rustig",
+      "word_translated": "rustig (ADJ) - quiet",
+      "sentence": "De nacht is rustig en welnee spannend.",
+      "sentence_translated": "The night is quiet and not really exciting."
+    },
+    {
+      "word": "gnant",
+      "word_translated": "gnant (ADJ) - hungry",
+      "sentence": "Ik ben gnant, maar het eten is welnee klaar.",
+      "sentence_translated": "I am hungry, but the food is not ready."
+    },
+    {
+      "word": "hierbuiten",
+      "word_translated": "hierbuiten (ADJ) - outside here",
+      "sentence": "Hij vindt het hierbuiten rustig en gnant.",
+      "sentence_translated": "He finds it quiet and hungry outside here."
+    },
+    {
+      "word": "ouder",
+      "word_translated": "ouder (ADJ) - older",
+      "sentence": "De ouder nacht is rustig en hierbuiten.",
+      "sentence_translated": "The older night is quiet and outside here."
+    }
+  ]
+}

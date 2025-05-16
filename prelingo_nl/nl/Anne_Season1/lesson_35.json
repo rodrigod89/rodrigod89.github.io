@@ -1,0 +1,68 @@
+{
+  "name": "Anne+ Season 1",
+  "part": "ANNE0102",
+  "lesson": 35,
+  "language": "nl",
+  "words": [
+    {
+      "word": "leef",
+      "word_translated": "live (VERB)",
+      "sentence": "Ik leef in een huis.",
+      "sentence_translated": "I live in a house."
+    },
+    {
+      "word": "aankijken",
+      "word_translated": "look at/watch (VERB)",
+      "sentence": "Hij kijkt naar de cactus aan.",
+      "sentence_translated": "He looks at the cactus."
+    },
+    {
+      "word": "verhuisbrigade",
+      "word_translated": "moving crew/team (NOUN)",
+      "sentence": "De verhuisbrigade komt binnen.",
+      "sentence_translated": "The moving team is coming in."
+    },
+    {
+      "word": "vlees",
+      "word_translated": "meat (NOUN)",
+      "sentence": "Ik eet vlees met de cactus.",
+      "sentence_translated": "I eat meat with the cactus."
+    },
+    {
+      "word": "uiteindelijk",
+      "word_translated": "ultimately (ADJ)",
+      "sentence": "Uiteindelijk eet hij het vlees.",
+      "sentence_translated": "Ultimately, he eats the meat."
+    },
+    {
+      "word": "wakker",
+      "word_translated": "awake/alert (ADJ)",
+      "sentence": "Ik ben wakker en leef goed.",
+      "sentence_translated": "I am awake and live well."
+    },
+    {
+      "word": "mogen",
+      "word_translated": "may/allowed to (AUX)",
+      "sentence": "Wij mogen vlees eten.",
+      "sentence_translated": "We may eat meat."
+    },
+    {
+      "word": "zullen",
+      "word_translated": "will/shall (AUX)",
+      "sentence": "Zij zullen uiteindelijk aankijken.",
+      "sentence_translated": "They will ultimately watch."
+    },
+    {
+      "word": "wie",
+      "word_translated": "who (PRON)",
+      "sentence": "Wie mag vlees eten?",
+      "sentence_translated": "Who may eat meat?"
+    },
+    {
+      "word": "onze",
+      "word_translated": "our (PRON)",
+      "sentence": "Onze verhuisbrigade komt binnen.",
+      "sentence_translated": "Our moving team is coming in."
+    }
+  ]
+}
